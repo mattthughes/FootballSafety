@@ -16,6 +16,26 @@ body {
 
 }
 
+h1,h2,h3 {
+        font-family: 'Cinzel', serif;
+        text-decoration: solid;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        color: rgb(255, 255, 255);
+        font-size: 1.5em;
+}
+
+header {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    top: 100;
+    z-index: 99;
+}
+
+
+
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
