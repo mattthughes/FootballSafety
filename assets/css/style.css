@@ -50,12 +50,21 @@ header a {
     color: whitesmoke;
 }
 
+#menu {
+    list-style-type: none;
+
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
 nav {
     position: absolute;
     top: 100%;
-    padding: 0 1;
+    padding: 0 1rem;
     width: 100%;
-    right: 0;
+    left: 0;
     background-color: black;
     box-shadow: 2px 2px  rgb(255, 255, 255);
     display: none;
@@ -73,11 +82,6 @@ nav {
 
 .nav-label {
     font-size: 1em;
-}
-
-#menu {
-    list-style-type: none;
-    
 }
 
 main {
@@ -102,11 +106,57 @@ main {
     top: 0;
     margin-top: 164px;
     padding-top: 0px;
-    min-height: 40pxpx;
+    min-height: 40px;
     font-size: 70%;
     background-color: rgba(168, 18, 18, 0.3);
+}
 
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+    h1 {
+        font-size: 100%;
+        
+    }
+
+    nav {
+        display: block;
+        position: relative;
+        width: fit-content;
+        padding-left: 840px;
+        padding-right: 0;
+        box-shadow: none;
+
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        
+        padding-left: 1rem;
+
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    main {
+        margin-top: 79px;
+    }
 
     
+
+    #cover-text {
+        width: 40%;
+        height: 200px;
+        font-size: 70%;
+    }
+
+
+
+
 
 }
