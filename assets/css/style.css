@@ -111,6 +111,19 @@ main {
     background-color: rgba(168, 18, 18, 0.3);
 }
 
+#about-us {
+    width: 80%;
+    margin: 20px auto;
+    padding-top: 10px;
+}
+
+#about-text {
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -154,6 +167,8 @@ main {
         height: 52px;
         font-size: 70%;
     }
+
+    
 
 
 
