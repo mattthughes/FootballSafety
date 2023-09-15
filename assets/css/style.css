@@ -23,7 +23,7 @@ h1 {
         text-transform: uppercase;
         letter-spacing: 3px;
         color: rgb(255, 255, 255);
-        font-size: 1em;
+        font-size: 1rem;
 }
 
 h2,h3 {
@@ -123,8 +123,8 @@ main {
         display: block;
         position: relative;
         width: fit-content;
-        padding-left: 840px;
-        padding-right: 0;
+        padding-left: 255px;
+        letter-spacing: 4px;
         box-shadow: none;
 
     }
@@ -151,7 +151,7 @@ main {
 
     #cover-text {
         width: 40%;
-        height: 200px;
+        height: 52px;
         font-size: 70%;
     }
 
