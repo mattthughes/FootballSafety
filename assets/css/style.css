@@ -113,7 +113,7 @@ main {
 
 #about-us {
     width: 80%;
-    margin: 20px auto;
+    margin: auto;
     padding-top: 10px;
 }
 
@@ -121,6 +121,31 @@ main {
     color: white;
     font-size: 1rem;
     text-align: center;
+
+}
+
+#football-safety {
+    width: 80%;
+    padding-top: 15px;
+    margin: auto;
+}
+
+#football-safety h3 {
+    font-size: 80%;
+}
+
+#safety-text {
+    color: white;
+    padding-top: 20px;
+    font-size: 1rem;
+    text-align: center;
+
+}
+
+#safety-vid video {
+    width: 80%;
+    padding-top: 10px;
+    align-items: center;
 
 }
 
