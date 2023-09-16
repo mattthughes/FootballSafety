@@ -156,6 +156,20 @@ main {
     padding: 0 10px;
 }
 
+/* footer styles */
+
+#social-networks {
+    display: flex;
+    justify-content: space-between;
+    font-size: 150%;
+    padding-top:16px
+
+}
+
+#social-networks > li {
+    padding-right: 10px;
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
