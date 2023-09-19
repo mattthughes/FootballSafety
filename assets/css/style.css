@@ -12,7 +12,7 @@ body {
     font-family: "Titillium Web", sans-serif;
     display: flex;
     flex-direction: column;
-    background-color: #ffff;
+    background-color: #16001E;
 }
 
 h1 {
@@ -41,13 +41,13 @@ header {
     align-items: baseline;
     top: 100;
     z-index: 99;
-    background-color: #ffffff;
+    background-color: #16001E;
     width: 100%;
 }
 
 header a {
     text-decoration: none;
-    color: black;
+    color: #ffff;
 }
 
 #menu {
@@ -64,7 +64,7 @@ nav {
     padding: 0 1rem;
     width: 100%;
     left: 0;
-    box-shadow: 2px 2px #000000;
+    box-shadow: 2px 2px #16001E;
     display: none;
 }
 
@@ -114,7 +114,7 @@ main {
 }
 
 #about-text {
-    color: #000000;
+    color: #ffff;
     font-size: 1rem;
     text-align: center;
 }
@@ -130,7 +130,7 @@ main {
 }
 
 #safety-text {
-    color: #000000;
+    color: #ffff;
     padding-top: 20px;
     font-size: 1rem;
     text-align: center;

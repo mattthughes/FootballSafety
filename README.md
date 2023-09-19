@@ -1,5 +1,14 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+# Project Background: 
+
+Football Safety is an online website designed to inform football fans of football disasters, showing the effects these have had on the people, how we cannot let the victims be forgotten. This website aims to improve safety at football by providing insight to football fans around the world this will be done by using videos, text and a timeline on our history page.
+
+The inspiration behind this project came from researching about football disasters, how this effected the area whether it was the Bradford fire or the Hillsborough disaster each event impacted the the region and changed football forever. 
+
+[Live Site URL:](https://mattthughes.github.io/FootballSafety/)
+
+
 Welcome,
 
 This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
