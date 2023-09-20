@@ -11,41 +11,41 @@ The inspiration behind this project came from researching about football disaste
 
 # CONTENTS
 
-*User Stories
-    *Client aims
-    *Returning  visitor aims
+* User Stories
+    * Client aims
+    * Returning  visitor aims
 
-*Design
-    *Color Scheme
-    *Wireframes
-    *Key features
-    *Imagery
-    *Accessibilty decisions
-    *Typography
+* Design
+    * Color Scheme
+    * Wireframes
+    * Key features
+    * Imagery
+    * Accessibilty decisions
+    * Typography
 
-  *Technologies used used
-    *Languages used
-    *Frame works and libarys used
+  * Technologies used used
+    * Languages used
+    * Frame works and libarys used
 
-*Testing
-    *W3C HTML validator
-    *W3C CSS validator
-    *Solved bugs and fixes
-        *Known bugs
-    *User stories testing
-    *Lighthouse testing
-        *Home page testing
-        *History page testing
-        *Gallery page testing
-        *Contact us Page testing
-    *Full testing
+* Testing
+    * W3C HTML validator
+    * W3C CSS validator
+    * Solved bugs and fixes
+        * Known bugs
+    * User stories testing
+    * Lighthouse testing
+        * Home page testing
+        * History page testing
+        * Gallery page testing
+        * Contact us Page testing
+    * Full testing
 
-*Credits
-    *Images used
-        *Media
-    *Code used
-    *Content
-    *Acknowledgments
+* Credits
+    * Images used
+        * Media
+    * Code used
+    * Content
+    * Acknowledgments
 
 ## User Stories
 
@@ -55,22 +55,22 @@ The inspiration behind this project came from researching about football disaste
 
 ### Client Goals
 
-*To view this website on many different design sizes
-*To understand aim of the website
-*To be able to submit a contact form highlighting any new stories they may have or to be kept up to date with new changes
-*To find out why football safety is important and why it needs to be improved.
+* To view this website on many different design sizes
+* To understand aim of the website
+* To be able to submit a contact form highlighting any new stories they may have or to be kept up to date with new changes
+* To find out why football safety is important and why it needs to be improved.
 
 ### First Time user goals:
 
-*To understand the importance football safety has the sport
-*Be able to view and understand website without any difficulties
-*Be able to sign up for and recieve further information by completing a contact us form
+* To understand the importance football safety has the sport
+* Be able to view and understand website without any difficulties
+* Be able to sign up for and recieve further information by completing a contact us form
 
 ### Frequent visitor goals:
 
-*Be able to find information quickly by using timeline
-*To add additonal information if required to further improve football safety
-*Research different events to gain a greater understanding.
+* Be able to find information quickly by using timeline
+* To add additonal information if required to further improve football safety
+* Research different events to gain a greater understanding.
 
 ## Design: 
 
