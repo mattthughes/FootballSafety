@@ -1,5 +1,5 @@
 
-# Football Safety: 
+# Football Safety 
 
 ![Responsiveness logo](docs/responsive%20test.png)
 
@@ -74,15 +74,18 @@ The inspiration behind this project came from researching about football disaste
 
 ## Design: 
 
-![Color palatte](docs/wireframes/colorpalette.png) This is the color palatte I decided on all the colours flow together and create an interesting and somber design.
+![Color palatte](docs/wireframes/colorpalette.png) 
+This is the color palatte I decided on all the colours flow together and create an interesting and somber design.
 
 ## Wirefames
 
 ### Mobile 
 
-![Mobile Wireframe](docs/wireframes/phone%20wireframe.png) This is the mobile design for the home page everything is highlighted showcasing how the project will look on a mobile device.
+![Mobile Wireframe](docs/wireframes/phone%20wireframe.png) 
+This is the mobile design for the home page everything is highlighted showcasing how the project will look on a mobile device.
 
-![Desktop wireframe](docs/wireframes/desktop%20wireframe.png) This is how the project will look on a desktop device as shown on  the mobile version everything is highlighted how the project is structured on a desktop device. 
+![Desktop wireframe](docs/wireframes/desktop%20wireframe.png)
+ This is how the project will look on a desktop device as shown on  the mobile version everything is highlighted how the project is structured on a desktop device. 
 
 ## Key Features: 
 
@@ -90,25 +93,58 @@ The inspiration behind this project came from researching about football disaste
 
 * This feature is highighting the other pages on the website, with the Home, History and contact us page this is shown on the navigation bar with it collapsing on mobile devices and stretching on larger devices, on the mobile format there is a box shadow as well showing the other pages on the website.(See below for the mobile and desktop view)
   
+#### Mobile view
+
+![Navigation mobile collapsed](docs/wireframes/nav%20bar%20collapsed.png)
+![Navigation mobile](docs/wireframes/nav%20bar%20.png)
+
+#### Desktop view
+  
 ### About us
 
 * Informs users of the purpose of the company and the website, highlights why the website is useful to users and why football safety is important and needs to continue to evolve (See below for the mobile and desktop view)
-   
+
+#### Mobile view
+
+![About us mobile]()
+
 ### Videos 
 
 * This part showcases a video of the history nearly repeating itself section which further adds engagement to the website the user is able to control whether they want the video to play or not, there is also a text link directing the user to youtube in a new tab incase the browser doesnt have access to HTML5. (See below for the mobile and desktop view)
+  
+#### Videos View
+
+![Videos mobile]()
    
 ### History timeline
 
 * The history timeline shows the causes and impact the Hillsborough disaster had on the city before, during and after the disaster this timeline also has transition animations that flow as the user scrolls down the page. (See below for the mobile and desktop view)
 
+#### History View
+
+![History mobile]()
+
 ### Contact form 
 
 * The contact form will allow users to opt in for further marketing with a checkbox, radio buttons showing where they found the site, the site will allow users to fill in there information such as first name, surname and email address which will all be required. This form will allow users to opt in to provide there own stories and information or any ideas for improving football safety. (See below for the mobile and desktop view)
+
+#### Contact View
+
+![Contact Mobile]()
 
 ### Social Media icons
 
 * These social media icons will allow users to gain access to our instagram, twitter, facebook, youtube pages allowing users to contact us and be kept up to date with all news regarding football safety. (See below for the mobile and desktop view)
 
+#### Social Media View
+
+![Social Mobile]()
 
 
+
+
+## Testing
+
+### Solved Bugs
+
+* Had an issue where the navigation bar wasnt being centered on desktop devices.
