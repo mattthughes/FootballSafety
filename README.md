@@ -140,11 +140,10 @@ This is the mobile design for the home page everything is highlighted showcasing
 
 ![Social Mobile]()
 
-
-
-
 ## Testing
 
 ### Solved Bugs
 
-* Had an issue where the navigation bar wasnt being centered on desktop devices.
+* Had an issue where the navigation bar wasnt being centered on desktop devices I changed the padding left value to 6px to fix this issue.
+
+* Fixed a bug where the about us and football safety section were not stacking appropriately on tablet screen sizes.
