@@ -150,3 +150,4 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 - Fixed a bug where the about us and football safety section were not stacking appropriately on tablet screen sizes.
 - Fixed a bug where the contact page was not displaying webpage elements correctly such as footer titles all being in the wrong pace, to fix this I adjusted the html to improve the formating
+- Fixed a bug where the timeline wasnt stacking correctly adjusted the height of the timeline dimensions to fit the issue 

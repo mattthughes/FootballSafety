@@ -182,13 +182,12 @@ main {
 }
 
 .timeline h3 {
-    padding-top: 10px;
+    padding-top: 25px;
 
 }
 
 .timeline-dimensions {
     width: 80%;
-    height: 300px;
     margin: auto 30px;;
     padding-top: 10px;
     
@@ -200,7 +199,7 @@ main {
     width: 7px;
     top: 0;
     bottom: 0;
-    margin-top: 50px;
+    margin-top: 80px;
     margin-left: -131px;
     background-color: #fff;
 }
