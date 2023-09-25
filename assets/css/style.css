@@ -72,6 +72,7 @@ nav {
     left: 0;
     box-shadow: 2px 2px rgb(255, 255, 255);
     display: none;
+    background-color: #16001E;
 
 
 }
@@ -199,6 +200,7 @@ main {
     width: 7px;
     top: 0;
     bottom: 0;
+    margin-top: 50px;
     margin-left: -131px;
     background-color: #fff;
 }
