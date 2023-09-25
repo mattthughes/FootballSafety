@@ -13,8 +13,6 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #16001E;
-
-
 }
 
 h1 {
@@ -232,6 +230,11 @@ main {
 .content p {
     color: #fff;
 
+}
+
+.content small {
+    font-size: 15px;
+    font-weight: 900;
 }
 
 .future-updates {
