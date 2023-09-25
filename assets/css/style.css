@@ -372,12 +372,12 @@ main {
     }
 
     .right {
-        right: 10%;
-        width: 50%;
+        right: 9%;
+        width: 57%;
     }
 
     .right::after {
-        left: 123%;
+        left: 106%;
     }
 
     .content {
