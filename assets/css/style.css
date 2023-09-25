@@ -189,7 +189,7 @@ main {
 .timeline-dimensions {
     width: 80%;
     margin: auto 30px;;
-    padding-top: 10px;
+    padding-top: 27px;
     
 }
 
@@ -229,6 +229,18 @@ main {
 .content p {
     color: #fff;
 
+}
+
+.future-updates {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: #fff;
+    padding-top: 10px;
+}
+
+.future-text h3 {
+    font-size: 15px;
 }
 
 /* footer styles */
@@ -394,11 +406,5 @@ main {
 
 
     }
-
-
-
-
-
-
 
 }
