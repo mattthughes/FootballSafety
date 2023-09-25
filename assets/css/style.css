@@ -29,7 +29,7 @@ h1 {
 }
 
 h2,
-h3 {
+h3, h4 {
     font-family: 'Cinzel', serif;
     text-decoration: solid;
     text-transform: uppercase;
@@ -75,8 +75,6 @@ nav {
 
 
 }
-
-
 
 .nav-toggle:checked~nav {
     display: block;
@@ -179,17 +177,20 @@ main {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
-    
-    
+    text-align: center;
+}
+
+.timeline h3 {
+    padding-top: 10px;
+
 }
 
 .timeline-dimensions {
     width: 80%;
     height: 270px;
-    margin: auto 40px;
-    padding-top: 12px;
-    text-align: center;
-
+    margin: auto 40px;;
+    padding-top: 10px;
+    
 }
 
 .timeline-dimensions::after {
