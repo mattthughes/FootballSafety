@@ -1,6 +1,6 @@
 # Football Safety
 
-![Responsiveness logo](docs/responsive%20test.png)
+![Responsiveness logo](docs/wireframes/responsive%20test.png)
 
 ## Project Introduction:
 
