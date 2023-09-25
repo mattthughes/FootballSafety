@@ -395,6 +395,24 @@ main {
         font-size: 20px;
     }
 
+    .future-updates {
+        padding-top: 25px;
+        width: 80%;
+        
+    }
+
+    .future-updates h3 {
+        font-size: 25px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        
+    }
+
+    .future-text {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+
 
 
 
