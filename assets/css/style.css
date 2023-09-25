@@ -179,6 +179,8 @@ main {
     margin: 0 auto;
     max-width: 400px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .timeline h3 {
@@ -188,7 +190,7 @@ main {
 
 .timeline-dimensions {
     width: 80%;
-    margin: auto 30px;;
+    margin: auto 30px;
     padding-top: 27px;
     
 }
@@ -200,7 +202,7 @@ main {
     top: 0;
     bottom: 0;
     margin-top: 80px;
-    margin-left: -131px;
+    left: 10px;
     background-color: #fff;
 }
 
@@ -210,6 +212,7 @@ main {
     border-radius: 10%;
     position: relative;
     color: gray;
+    padding: 10px;
 }
 
 .timeline-container::after {
@@ -223,7 +226,7 @@ main {
     z-index: 1;
     bottom: 0;
     top: 0;
-    right: 102%;
+    left: -31px;
 }
 
 .content p {
@@ -332,6 +335,17 @@ main {
     #safety-vid a {
         font-size: 10px;
     }
+
+    .timeline {
+        max-width: 1200px;
+    }
+
+    .timeline-dimensions {
+        width: 80%;
+        right: 90%;
+        left: 0;
+    }
+
 
     #social-networks {
         font-size: 200%;
