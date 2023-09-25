@@ -287,6 +287,7 @@ main {
         box-shadow: none;
         width: 100%;
         justify-content: right;
+        font-size: 20px;
 
     }
 
@@ -337,6 +338,16 @@ main {
 
     #safety-vid a {
         font-size: 10px;
+    }
+
+    .history {
+        width: 80%;
+        padding-top: 20px;
+
+    }
+
+    .history h2 {
+        font-size: 20px;
     }
 
     .timeline {
