@@ -102,29 +102,45 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### Desktop view
 
+![Navigation desktop view](docs/wireframes/nav%20bar%20desktop.png)
+
 ### About us
 
 - Informs users of the purpose of the company and the website, highlights why the website is useful to users and why football safety is important and needs to continue to evolve (See below for the mobile and desktop view)
 
 #### Mobile view
 
-![About us mobile]()
+![About us mobile](docs/wireframes/about%20mobile.png)
+
+#### Desktop View 
+
+![About us desktop](docs/wireframes/about%20desktop.png)
 
 ### Videos
 
 - This part showcases a video of the history nearly repeating itself section which further adds engagement to the website the user is able to control whether they want the video to play or not, there is also a text link directing the user to youtube in a new tab incase the browser doesnt have access to HTML5. (See below for the mobile and desktop view)
 
-#### Videos View
+#### Mobile View
 
-![Videos mobile]()
+![Videos mobile](docs/wireframes/history%20nearly%20mobile%20.png)
+![Video element mobile](docs/wireframes/video%20element%20mobile%20.png)
+
+#### Desktop View 
+
+![Video desktop view](docs/wireframes/video%20desktop%20.png)
 
 ### History timeline
 
 - The history timeline shows the causes and impact the Hillsborough disaster had on the city before, during and after the disaster this timeline also has transition animations that flow as the user scrolls down the page. (See below for the mobile and desktop view)
 
-#### History View
+#### Mobile View
 
-![History mobile]()
+![History mobile view](docs/wireframes/timeline%20mobile%20.png)
+![History timeline mobile](docs/wireframes/timeline%20mobile%202nd%20section.png)
+
+#### Desktop view 
+
+![History Desktop](docs/wireframes/desktop%20timeline%20.png)
 
 ### Contact form
 
@@ -138,9 +154,13 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 - These social media icons will allow users to gain access to our instagram, twitter, facebook, youtube pages allowing users to contact us and be kept up to date with all news regarding football safety. (See below for the mobile and desktop view)
 
-#### Social Media View
+#### Social Media Mobile 
 
-![Social Mobile]()
+![Social Media mobile view](docs/wireframes/social%20media%20mobile%20.png)
+
+#### Social Media Desktop
+
+![Social Media desktop view](docs/wireframes/social%20media%20desktop%20.png)
 
 ## Testing
 

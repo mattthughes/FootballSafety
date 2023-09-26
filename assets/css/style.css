@@ -148,7 +148,7 @@ main {
 }
 
 #safety-vid video {
-    width: 80%;
+    width: 90%;
     padding-top: 10px;
     align-items: center;
 
@@ -544,7 +544,6 @@ main {
         #social-networks {
             font-size: 300%;
         }
-
 
     }
 
