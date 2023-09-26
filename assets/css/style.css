@@ -27,7 +27,8 @@ h1 {
 }
 
 h2,
-h3, h4 {
+h3,
+h4 {
     font-family: 'Cinzel', serif;
     text-decoration: solid;
     text-transform: uppercase;
@@ -172,7 +173,7 @@ main {
     font-size: 15px;
 }
 
-.timeline{
+.timeline {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
@@ -190,7 +191,7 @@ main {
     width: 80%;
     margin: auto 30px;
     padding-top: 27px;
-    
+
 }
 
 .timeline-dimensions::after {
@@ -398,23 +399,20 @@ main {
     .future-updates {
         padding-top: 25px;
         width: 80%;
-        
+
     }
 
     .future-updates h3 {
         font-size: 25px;
         padding-bottom: 10px;
         padding-top: 10px;
-        
+
     }
 
     .future-text {
         font-size: 20px;
         padding-bottom: 20px;
     }
-
-
-
 
     #social-networks {
         font-size: 200%;
@@ -482,6 +480,37 @@ main {
 
         #safety-vid a {
             font-size: 25px;
+        }
+
+        .timeline-dimensions {
+            width: 75%;
+        }
+
+        .timeline-container {
+            right: 30px
+        }
+
+        .left {
+            left: 487px;
+        }
+
+        .right {
+            right: 109px;
+        }
+
+        .content {
+            padding: 10px;
+        }
+
+
+        .timeline-dimensions::after {
+            margin-top: 10%;
+            width: 14px;
+            left: 596px;
+        }
+
+        .timeline-container.right::after {
+            left: 541px;
         }
 
         #social-networks {
