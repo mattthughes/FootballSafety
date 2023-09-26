@@ -153,3 +153,4 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed a bug where the timeline wasnt stacking correctly adjusted the height of the timeline dimensions to fit the issue 
 - Another Issue occured where the timeline content was not showing correctly deleted the height property in the timeline class to fix the issue and increased the padding top value to seperate the containers correctly.
 - Fixed formatting issue for timeline ran into an issue where the timeline wasnt adjusting because of the screen size, to fix this I changed the formatting for the mobile device using flex box to make it easier to style the timeline for larger screen sizes.
+- Fixed formatting for timeline on laptops and larger devices to fix this I changed the properties of the timeline container, for the circles and for the vertical timeline bar.

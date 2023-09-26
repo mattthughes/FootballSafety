@@ -482,8 +482,22 @@ main {
             font-size: 25px;
         }
 
+        .history {
+            width: 100%;
+            padding-top: 52px;
+        }
+
+        .history h2 {
+            font-size: 25px;
+            padding-top: 30px;
+        }
+
+        .history-text {
+            font-size: 20px;
+        }
+
         .timeline-dimensions {
-            width: 75%;
+            width: 100%;
         }
 
         .timeline-container {
@@ -491,7 +505,7 @@ main {
         }
 
         .left {
-            left: 487px;
+            left: 635px;
         }
 
         .right {
@@ -510,7 +524,21 @@ main {
         }
 
         .timeline-container.right::after {
-            left: 541px;
+            left: 690px;
+        }
+
+        .future-updates {
+            width: 100%;
+            padding-top: 20px;
+        }
+
+        .future-updates h2 {
+            font-size: 25px;
+            padding-bottom: 20px;
+        }
+
+        .future-text {
+            font-size: 20px;
         }
 
         #social-networks {
