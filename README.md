@@ -24,7 +24,7 @@ The inspiration behind this project came from researching about football disaste
   - Accessibilty decisions
   - Typography
 
-  - Technologies used used
+  - Technologies used
     - Languages used
     - Frame works and libarys used
 
@@ -112,7 +112,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![About us mobile](docs/wireframes/about%20mobile.png)
 
-#### Desktop View 
+#### Desktop View
 
 ![About us desktop](docs/wireframes/about%20desktop.png)
 
@@ -125,7 +125,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 ![Videos mobile](docs/wireframes/history%20nearly%20mobile%20.png)
 ![Video element mobile](docs/wireframes/video%20element%20mobile%20.png)
 
-#### Desktop View 
+#### Desktop View
 
 ![Video desktop view](docs/wireframes/video%20desktop%20.png)
 
@@ -138,7 +138,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 ![History mobile view](docs/wireframes/timeline%20mobile%20.png)
 ![History timeline mobile](docs/wireframes/timeline%20mobile%202nd%20section.png)
 
-#### Desktop view 
+#### Desktop view
 
 ![History Desktop](docs/wireframes/desktop%20timeline%20.png)
 
@@ -154,13 +154,22 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 - These social media icons will allow users to gain access to our instagram, twitter, facebook, youtube pages allowing users to contact us and be kept up to date with all news regarding football safety. (See below for the mobile and desktop view)
 
-#### Social Media Mobile 
+#### Social Media Mobile
 
 ![Social Media mobile view](docs/wireframes/social%20media%20mobile%20.png)
 
 #### Social Media Desktop
 
 ![Social Media desktop view](docs/wireframes/social%20media%20desktop%20.png)
+
+## Technology
+
+### Languages
+
+- HTML
+- CSS
+
+### Frameworks & Libaries
 
 ## Testing
 
@@ -170,7 +179,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 - Fixed a bug where the about us and football safety section were not stacking appropriately on tablet screen sizes.
 - Fixed a bug where the contact page was not displaying webpage elements correctly such as footer titles all being in the wrong pace, to fix this I adjusted the html to improve the formating
-- Fixed a bug where the timeline wasnt stacking correctly adjusted the height of the timeline dimensions to fit the issue 
+- Fixed a bug where the timeline wasnt stacking correctly adjusted the height of the timeline dimensions to fit the issue
 - Another Issue occured where the timeline content was not showing correctly deleted the height property in the timeline class to fix the issue and increased the padding top value to seperate the containers correctly.
 - Fixed formatting issue for timeline ran into an issue where the timeline wasnt adjusting because of the screen size, to fix this I changed the formatting for the mobile device using flex box to make it easier to style the timeline for larger screen sizes.
 - Fixed formatting for timeline on laptops and larger devices to fix this I changed the properties of the timeline container, for the circles and for the vertical timeline bar.
