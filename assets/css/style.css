@@ -34,8 +34,6 @@ h4 {
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #ff3c38;
-
-
 }
 
 header {
@@ -72,7 +70,6 @@ nav {
     box-shadow: 2px 2px rgb(255, 255, 255);
     display: none;
     background-color: #16001E;
-
 
 }
 
@@ -144,7 +141,6 @@ main {
     padding-top: 20px;
     font-size: 1rem;
     text-align: center;
-
 }
 
 #safety-vid video {
