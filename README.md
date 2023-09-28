@@ -172,6 +172,14 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![Social Media desktop view](docs/wireframes/socialmediadesktop.png)
 
+## Accesibility 
+
+* Accesiblity was a major focus for the project, making sure colours didnt clash and fit well together.
+* I used Coolors, Wave.webaim and the colour grid to find which colors wouked together and which ones did not.
+* I also added alt image text for visually impaired users incase the image itself did not load they would still be able to understand what image was meant to be there not ruining the overall flow of the website.
+* The video element allows completley control from the user, the video does not autoplay and is muted to start with the user can control this.
+* The video also has a link below stating there is a link incase the video is not working this link will open in a new tab not taking the user away from the website.
+
 ## Technology
 
 ### Languages
@@ -187,9 +195,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - [Google fonts](https://fonts.google.com/)
 - [Code Anywhere](https://codeanywhere.com/solutions/collaborate)
 - [Favicon](https://favicon.io/favicon-generator/)
-
 * [Chrome Dev tools](https://developer.chrome.com/docs/devtools/)
-
 - [Tiny PNG](https://tinypng.com/)
 - [W3C HTML Validatior](https://validator.w3.org/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
@@ -201,17 +207,18 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - [Coolors](https://coolors.co/)
 - [Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%2315FD38%0D%0A%23045a9c%0D%0A%23786655%0D%0A%23ffffff%0D%0A%23000000&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)
 - [Am I Responsive](https://ui.dev/amiresponsive)
-- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
+- [FLighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
 
-## Testing
+# Testing
 
 ### Solved Bugs
 
 - Had an issue where the navigation bar wasnt being centered on desktop devices I changed the padding left value to 6px to fix this issue.
-
 - Fixed a bug where the about us and football safety section were not stacking appropriately on tablet screen sizes.
 - Fixed a bug where the contact page was not displaying webpage elements correctly such as footer titles all being in the wrong pace, to fix this I adjusted the html to improve the formating
 - Fixed a bug where the timeline wasnt stacking correctly adjusted the height of the timeline dimensions to fit the issue
 - Another Issue occured where the timeline content was not showing correctly deleted the height property in the timeline class to fix the issue and increased the padding top value to seperate the containers correctly.
 - Fixed formatting issue for timeline ran into an issue where the timeline wasnt adjusting because of the screen size, to fix this I changed the formatting for the mobile device using flex box to make it easier to style the timeline for larger screen sizes.
 - Fixed formatting for timeline on laptops and larger devices to fix this I changed the properties of the timeline container, for the circles and for the vertical timeline bar.
+- Fixed the video pathway issue by adding in a dot before the forward slash to correctly show the video element on git hub
+- 
