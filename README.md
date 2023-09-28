@@ -22,11 +22,10 @@ The inspiration behind this project came from researching about football disaste
   - Key features
   - Imagery
   - Accessibilty decisions
-  - Typography
 
   - Technologies used
     - Languages used
-    - Frame works and libarys used
+    - Frameworks & Tools
 
 - Testing
 
@@ -172,13 +171,13 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![Social Media desktop view](docs/wireframes/socialmediadesktop.png)
 
-## Accesibility 
+## Accesibility
 
-* Accesiblity was a major focus for the project, making sure colours didnt clash and fit well together.
-* I used Coolors, Wave.webaim and the colour grid to find which colors wouked together and which ones did not.
-* I also added alt image text for visually impaired users incase the image itself did not load they would still be able to understand what image was meant to be there not ruining the overall flow of the website.
-* The video element allows completley control from the user, the video does not autoplay and is muted to start with the user can control this.
-* The video also has a link below stating there is a link incase the video is not working this link will open in a new tab not taking the user away from the website.
+- Accesiblity was a major focus for the project, making sure colours didnt clash and fit well together.
+- I used Coolors, Wave.webaim and the colour grid to find which colors wouked together and which ones did not.
+- I also added alt image text for visually impaired users incase the image itself did not load they would still be able to understand what image was meant to be there not ruining the overall flow of the website.
+- The video element allows completley control from the user, the video does not autoplay and is muted to start with the user can control this.
+- The video also has a link below stating there is a link incase the video is not working this link will open in a new tab not taking the user away from the website.
 
 ## Technology
 
@@ -221,4 +220,4 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed formatting issue for timeline ran into an issue where the timeline wasnt adjusting because of the screen size, to fix this I changed the formatting for the mobile device using flex box to make it easier to style the timeline for larger screen sizes.
 - Fixed formatting for timeline on laptops and larger devices to fix this I changed the properties of the timeline container, for the circles and for the vertical timeline bar.
 - Fixed the video pathway issue by adding in a dot before the forward slash to correctly show the video element on git hub
-- 
+- Fixed an issue where the hover element was showing twice and was much bigger than the social media icon to fix this I changed the width and height to fit the content.
