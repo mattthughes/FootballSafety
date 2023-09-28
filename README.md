@@ -221,3 +221,4 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed formatting for timeline on laptops and larger devices to fix this I changed the properties of the timeline container, for the circles and for the vertical timeline bar.
 - Fixed the video pathway issue by adding in a dot before the forward slash to correctly show the video element on git hub
 - Fixed an issue where the hover element was showing twice and was much bigger than the social media icon to fix this I changed the width and height to fit the content.
+- Fixed an issue where the nav bar wasnt displaying correctly the contact us part of the nav bar was going onto the next line to fix this I changed the padding left value to 0
