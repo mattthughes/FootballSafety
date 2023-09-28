@@ -285,7 +285,7 @@ main {
         display: flex;
         position: relative;
         width: fit-content;
-        padding-left: 255px;
+        padding-left: 0;
         letter-spacing: 4px;
         box-shadow: none;
         width: 100%;
@@ -351,6 +351,7 @@ main {
 
     .history h2 {
         font-size: 20px;
+        padding-bottom: 20px;
     }
 
     .timeline {
@@ -418,6 +419,11 @@ main {
 
     #social-networks {
         font-size: 200%;
+    }
+
+    #social-networks>li {
+        padding-right: 40px;
+        padding-left: 40px;
     }
 
     #social-networks :hover {
@@ -503,10 +509,13 @@ main {
         .history h2 {
             font-size: 25px;
             padding-top: 30px;
+            padding-bottom: 20px;
         }
 
         .history-text {
             font-size: 20px;
+            padding-left: 15px;
+            padding-right: 20px;
         }
 
         .timeline-dimensions {
@@ -552,6 +561,8 @@ main {
 
         .future-text {
             font-size: 20px;
+            padding-left: 15px;
+            padding-right: 20px;
         }
 
         #social-networks {
