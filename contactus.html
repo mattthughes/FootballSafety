@@ -103,28 +103,46 @@
             <div class="marketing-question">
               <p>
                 Normally we would like to support our users by providing them
-                with a platform to tell there story, if they have one while also
-                recieving key marketing which will tell them about potential new
-                stories and events would you like to recieve these emails?
+                with a platform to to tell there story if you have one we would
+                love to hear it we would also like to update our users on all
+                news regarding any new exciting events or changes we are making.
               </p>
+              <br />
+              <p>Would you like to recieve those emails?</p>
             </div>
-            <div class="checkboxes">
-              <label for="opt-in">Opt in</label>
+            <div class="radio-buttons">
+              <label for="opt-in">Yes</label>
               <input
-                type="checkbox"
+                type="radio"
                 name="decision"
                 value="opt-in"
                 id="opt-in"
                 required
-                checked
               />
               <br />
-              <label for="opt-out">Opt out</label>
+              <label for="opt-out">No</label>
               <input
                 type="radio"
                 name="decision"
                 value="opt-out"
                 id="opt-out"
+                required
+              />
+              <label for="stories-only">Stories only</label>
+              <input
+                type="radio"
+                name="decision"
+                value="stories-only"
+                id="stories-only"
+                required
+              />
+
+              <label for="marketing-only">Marketing only</label>
+              <input
+                type="radio"
+                name="decision"
+                value="marketing-only"
+                id="marketing-only"
                 required
               />
             </div>
