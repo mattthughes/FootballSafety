@@ -249,7 +249,12 @@ main {
     padding-bottom: 10px;
 }
 
-.future-text h3 {
+.future-updates h3 {
+    padding-bottom: 20px;
+}
+
+
+.future-text {
     font-size: 15px;
 }
 
