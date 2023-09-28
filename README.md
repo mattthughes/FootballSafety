@@ -195,7 +195,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - [Google fonts](https://fonts.google.com/)
 - [Code Anywhere](https://codeanywhere.com/solutions/collaborate)
 - [Favicon](https://favicon.io/favicon-generator/)
-* [Chrome Dev tools](https://developer.chrome.com/docs/devtools/)
+- [Chrome Dev tools](https://developer.chrome.com/docs/devtools/)
 - [Tiny PNG](https://tinypng.com/)
 - [W3C HTML Validatior](https://validator.w3.org/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)

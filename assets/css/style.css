@@ -459,6 +459,8 @@ main {
         #about-text {
             width: 100%;
             font-size: 25px;
+            padding-left: 15px;
+            padding-right: 15px;
 
         }
 
@@ -469,10 +471,13 @@ main {
         #safety-text {
             font-size: 25px;
             width: 100%;
+            padding-left: 15px;
+            padding-right: 15px;
         }
 
         #safety-text h2 {
             font-size: 25px;
+            padding-bottom: 10px;
         }
 
         #safety-vid video {
