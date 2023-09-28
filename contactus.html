@@ -55,7 +55,85 @@
     </header>
 
     <main>
-      <section id="contact"></section>
+      <section id="contact">
+        <form
+          id="contact-form"
+          method="POST"
+          action="https://formdump.codeinstitute.net/"
+        >
+          <h2>Join us in making football a safer place</h2>
+          <label for="first-name">First Name</label>
+          <input
+            type="text"
+            id="first-name"
+            name="first-name"
+            class="text-input"
+            placeholder="first name"
+            required
+          />
+          <br />
+          <label for="last-name">Last Name</label>
+          <input
+            type="text"
+            id="last-name"
+            name="last-name"
+            class="text-input"
+            placeholder="last name"
+            required
+          />
+          <br />
+          <label for="email-address">Email Address</label>
+          <input
+            type="email"
+            id="email-address"
+            name="email-address"
+            class="email"
+            placeholder="email@address.com"
+            required
+          />
+          <br />
+          <label for="phone-number">Contact Number</label>
+          <input
+            type="text"
+            id="phone-number"
+            name="phone-number"
+            class="contact-number"
+          />
+          <div class="marketing">
+            <div class="marketing-question">
+              <p>
+                Normally we would like to support our users by providing them
+                with a platform to tell there story, if they have one while also
+                recieving key marketing which will tell them about potential new
+                stories and events would you like to recieve these emails?
+              </p>
+            </div>
+            <div class="checkboxes">
+              <label for="opt-in">Opt in</label>
+              <input
+                type="checkbox"
+                name="decision"
+                value="opt-in"
+                id="opt-in"
+                required
+                checked
+              />
+              <br />
+              <label for="opt-out">Opt out</label>
+              <input
+                type="radio"
+                name="decision"
+                value="opt-out"
+                id="opt-out"
+                required
+              />
+            </div>
+          </div>
+          <button type="submit" class="join-button">
+            Help us make Football a safer place!
+          </button>
+        </form>
+      </section>
     </main>
 
     <footer>
