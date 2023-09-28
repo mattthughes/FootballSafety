@@ -42,7 +42,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    top: 100;
     z-index: 99;
     background-color: #16001E;
     width: 100%;
@@ -65,6 +64,8 @@ header a {
 #menu>li {
     margin-bottom: 1em;
 }
+
+/* Nav bar styles */
 
 nav {
     position: absolute;
@@ -118,6 +119,8 @@ main {
 
 }
 
+/* About us styles */
+
 #about-us {
     width: 80%;
     margin: auto;
@@ -130,6 +133,8 @@ main {
     text-align: center;
 
 }
+
+/* Football Safety styles */
 
 #football-safety {
     width: 80%;
@@ -162,6 +167,8 @@ main {
     padding: 0 10px;
 }
 
+/* History Styles */
+
 .history {
     text-align: center;
     width: 80%;
@@ -174,6 +181,8 @@ main {
     font-size: 15px;
     padding-bottom: 20px;
 }
+
+/* Timeline styles */
 
 .timeline {
     position: relative;
@@ -239,6 +248,8 @@ main {
     font-size: 15px;
     font-weight: 900;
 }
+
+/* Future updates styles */
 
 .future-updates {
     text-align: center;
@@ -439,6 +450,8 @@ main {
         color: #fff;
 
     }
+
+    /* for larger desktops */
 
     @media screen and (min-width: 1200px) {
 

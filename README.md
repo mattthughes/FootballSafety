@@ -222,6 +222,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed the video pathway issue by adding in a dot before the forward slash to correctly show the video element on git hub
 - Fixed an issue where the hover element was showing twice and was much bigger than the social media icon to fix this I changed the width and height to fit the content.
 - Fixed an issue where the nav bar wasnt displaying correctly the contact us part of the nav bar was going onto the next line to fix this I changed the padding left value to 0
+- Fixed a CSS error that stated top could not be just 100 added the unit to 0 to fix this issue.
 
 
 ### Lighthouse testing 
