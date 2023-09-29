@@ -260,14 +260,31 @@ main {
 #contact {
     display: flex;
     justify-content: space-evenly;
-    padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
 
-#contact-form {}
+#contact-form {
+    padding-right: 40px;
+    padding-left: 35px;
+    padding-top: 20px;
+    border: 2px solid #5c6672;
+
+
+}
+
+.text-input {
+    color: white;
+    border: solid 1px #5c6672;
+    border-radius: 10%;
+    background: transparent;
+    width: 100%;
+
+}
 
 .marketing-question p {
     color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .radio-buttons {
@@ -278,8 +295,15 @@ main {
     color: white;
 }
 
-.radio-buttons label {
-    padding-top: 10px;
+.join-button {
+    border-radius: 10%;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 20px;
+    color: white;
+    border: 2px solid #5c6672;
+    background-color: #5c6672;
+
 }
 
 /* footer styles */
