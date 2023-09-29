@@ -268,7 +268,14 @@ main {
     padding-left: 35px;
     padding-top: 20px;
     border: 2px solid #5c6672;
+}
 
+#contact-form h2 {
+    padding-bottom: 20px;
+}
+
+#contact-form label {
+    color: white;
 
 }
 
@@ -279,6 +286,10 @@ main {
     background: transparent;
     width: 100%;
 
+}
+
+.marketing {
+    padding-bottom: 10px;
 }
 
 .marketing-question p {

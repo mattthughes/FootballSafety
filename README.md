@@ -224,6 +224,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed an issue where the nav bar wasnt displaying correctly the contact us part of the nav bar was going onto the next line to fix this I changed the padding left value to 0
 - Fixed a CSS error that stated top could not be just 100 added the unit to 0 to fix this issue.
 - Fixed an issue with contact page where the sign up form radio buttons were not even to fix this I added different divs for the radio buttons to fix the spacing between the elements 
+- Fixed error message for form changed the method from POST to GET to fix this. 
 
 
 ### Lighthouse testing 
