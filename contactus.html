@@ -56,11 +56,7 @@
 
     <main>
       <section id="contact">
-        <form
-          id="contact-form"
-          method="POST"
-          action="https://formdump.codeinstitute.net/"
-        >
+        <form id="contact-form" method="POST" action="thankyou.html">
           <h2>Join us in making football a safer place</h2>
           <label for="first-name">First Name</label>
           <input
@@ -92,13 +88,7 @@
             required
           />
           <br />
-          <label for="phone-number">Contact Number</label>
-          <input
-            type="text"
-            id="phone-number"
-            name="phone-number"
-            class="contact-number"
-          />
+
           <div class="marketing">
             <div class="marketing-question">
               <p>
@@ -110,43 +100,56 @@
               <br />
               <p>Would you like to recieve those emails?</p>
             </div>
-            <div class="radio-buttons">
-              <label for="opt-in">Yes</label>
-              <input
-                type="radio"
-                name="decision"
-                value="opt-in"
-                id="opt-in"
-                required
-              />
-              <br />
-              <label for="opt-out">No</label>
-              <input
-                type="radio"
-                name="decision"
-                value="opt-out"
-                id="opt-out"
-                required
-              />
-              <label for="stories-only">Stories only</label>
-              <input
-                type="radio"
-                name="decision"
-                value="stories-only"
-                id="stories-only"
-                required
-              />
 
-              <label for="marketing-only">Marketing only</label>
-              <input
-                type="radio"
-                name="decision"
-                value="marketing-only"
-                id="marketing-only"
-                required
-              />
+            <br />
+
+            <div class="radio-buttons">
+              <div>
+                <label for="opt-in">Yes</label>
+                <input
+                  type="radio"
+                  name="decision"
+                  value="opt-in"
+                  id="opt-in"
+                  required
+                />
+              </div>
+
+              <div>
+                <label for="opt-out">No</label>
+                <input
+                  type="radio"
+                  name="decision"
+                  value="opt-out"
+                  id="opt-out"
+                  required
+                />
+              </div>
+
+              <div>
+                <label for="stories-only">Stories only</label>
+                <input
+                  type="radio"
+                  name="decision"
+                  value="stories-only"
+                  id="stories-only"
+                  required
+                />
+              </div>
+
+              <div>
+                <label for="marketing-only">Marketing only</label>
+                <input
+                  type="radio"
+                  name="decision"
+                  value="marketing-only"
+                  id="marketing-only"
+                  required
+                />
+              </div>
             </div>
           </div>
+
           <button type="submit" class="join-button">
             Help us make Football a safer place!
           </button>

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;700&family=Titillium+Web:wght@300;400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;700&family=Titillium+Web:wght@300;400&display=swap");
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -9,14 +9,14 @@
 
 /* generic styles */
 body {
-    font-family: 'Titillium Web', sans-serif;
+    font-family: "Titillium Web", sans-serif;
     display: flex;
     flex-direction: column;
-    background-color: #16001E;
+    background-color: #16001e;
 }
 
 h1 {
-    font-family: 'Cinzel', serif;
+    font-family: "Cinzel", serif;
     text-decoration: solid;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -24,13 +24,12 @@ h1 {
     font-size: 20px;
     text-align: center;
     padding-left: 5px;
-
 }
 
 h2,
 h3,
 h4 {
-    font-family: 'Cinzel', serif;
+    font-family: "Cinzel", serif;
     text-decoration: solid;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -43,7 +42,7 @@ header {
     justify-content: space-between;
     align-items: baseline;
     z-index: 99;
-    background-color: #16001E;
+    background-color: #16001e;
     width: 100%;
 }
 
@@ -58,7 +57,6 @@ header a {
 
 #menu {
     list-style-type: none;
-
 }
 
 #menu>li {
@@ -75,8 +73,7 @@ nav {
     left: 0;
     box-shadow: 2px 2px rgb(255, 255, 255);
     display: none;
-    background-color: #16001E;
-
+    background-color: #16001e;
 }
 
 .nav-toggle:checked~nav {
@@ -116,7 +113,6 @@ main {
     min-height: 40px;
     font-size: 70%;
     text-align: center;
-
 }
 
 /* About us styles */
@@ -131,7 +127,6 @@ main {
     color: white;
     font-size: 1rem;
     text-align: center;
-
 }
 
 /* Football Safety styles */
@@ -157,11 +152,9 @@ main {
     width: 90%;
     padding-top: 10px;
     align-items: center;
-
 }
 
 #safety-vid a {
-
     color: white;
     align-self: center;
     padding: 0 10px;
@@ -195,18 +188,16 @@ main {
 
 .timeline h3 {
     padding-top: 25px;
-
 }
 
 .timeline-dimensions {
     width: 80%;
     margin: auto 30px;
     padding-top: 27px;
-
 }
 
 .timeline-dimensions::after {
-    content: '';
+    content: "";
     position: absolute;
     width: 7px;
     top: 0;
@@ -215,7 +206,6 @@ main {
     left: 10px;
     background-color: #fff;
 }
-
 
 .timeline-container {
     border: solid 2px gray;
@@ -226,7 +216,7 @@ main {
 }
 
 .timeline-container::after {
-    content: '';
+    content: "";
     position: absolute;
     width: 20px;
     height: 20px;
@@ -241,7 +231,6 @@ main {
 
 .content p {
     color: #fff;
-
 }
 
 .content small {
@@ -268,6 +257,31 @@ main {
     font-size: 15px;
 }
 
+#contact {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#contact-form {}
+
+.marketing-question p {
+    color: white;
+}
+
+.radio-buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.radio-buttons label {
+    padding-top: 10px;
+}
+
 /* footer styles */
 
 #social-networks {
@@ -276,8 +290,6 @@ main {
     font-size: 150%;
     padding-top: 16px;
     list-style-type: none;
-
-
 }
 
 #social-networks>li {
@@ -285,16 +297,10 @@ main {
     padding-left: 20px;
 }
 
-
-
-
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
-
     h1 {
         font-size: 30px;
-
-
     }
 
     nav {
@@ -307,7 +313,6 @@ main {
         width: 100%;
         justify-content: right;
         font-size: 20px;
-
     }
 
     #menu {
@@ -315,9 +320,7 @@ main {
     }
 
     #menu>li {
-
         padding-left: 1rem;
-
     }
 
     .nav-toggle-label {
@@ -328,8 +331,6 @@ main {
         margin-top: 79px;
     }
 
-
-
     #cover-text {
         width: 40%;
         height: 52px;
@@ -337,9 +338,7 @@ main {
     }
 
     #about-text {
-
         width: 100%;
-
     }
 
     .safety-text {
@@ -347,12 +346,11 @@ main {
         padding-top: 15px;
     }
 
-
     #safety-vid video {
         width: 100%;
         height: 200px;
         align-self: center;
-        padding-top: 15px
+        padding-top: 15px;
     }
 
     #safety-vid a {
@@ -362,7 +360,6 @@ main {
     .history {
         width: 80%;
         padding-top: 20px;
-
     }
 
     .history h2 {
@@ -418,14 +415,12 @@ main {
     .future-updates {
         padding-top: 25px;
         width: 80%;
-
     }
 
     .future-updates h3 {
         font-size: 25px;
         padding-bottom: 10px;
         padding-top: 10px;
-
     }
 
     .future-text {
@@ -448,13 +443,11 @@ main {
         height: fit-content;
         border-radius: 50%;
         color: #fff;
-
     }
 
     /* for larger desktops */
 
     @media screen and (min-width: 1200px) {
-
         header h1 {
             font-size: 40px;
         }
@@ -485,7 +478,6 @@ main {
             font-size: 25px;
             padding-left: 25px;
             padding-right: 25px;
-
         }
 
         #football-safety {
@@ -541,7 +533,7 @@ main {
         }
 
         .timeline-container {
-            right: 30px
+            right: 30px;
         }
 
         .left {
@@ -555,7 +547,6 @@ main {
         .content {
             padding: 10px;
         }
-
 
         .timeline-dimensions::after {
             margin-top: 10%;
@@ -591,7 +582,5 @@ main {
             padding-right: 50px;
             padding-left: 50px;
         }
-
     }
-
 }
