@@ -225,6 +225,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed a CSS error that stated top could not be just 100 added the unit to 0 to fix this issue.
 - Fixed an issue with contact page where the sign up form radio buttons were not even to fix this I added different divs for the radio buttons to fix the spacing between the elements 
 - Fixed error message for form changed the method from POST to GET to fix this. 
+- Fixed issue regarding hover effect the effect would be visible after clicking on mobile changing to a media query to only show up when hovered on laptops and desktops 
 
 
 ### Lighthouse testing 

@@ -531,17 +531,19 @@ main {
         padding-left: 40px;
     }
 
-    #social-networks :hover {
-        background-color: rgb(255, 255, 255);
-        width: fit-content;
-        height: fit-content;
-        border-radius: 50%;
-        color: #fff;
-    }
+
 
     @media screen and (min-width: 900px) {
         #menu a:hover {
             border: solid 2px white;
+        }
+
+        #social-networks :hover {
+            background-color: rgb(255, 255, 255);
+            width: fit-content;
+            height: fit-content;
+            border-radius: 50%;
+            color: #fff;
         }
     }
 
