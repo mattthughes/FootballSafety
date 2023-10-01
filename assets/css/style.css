@@ -516,6 +516,12 @@ main {
         color: #fff;
     }
 
+    @media screen and (min-width: 900px) {
+        #menu a:hover {
+            border: solid 2px white;
+        }
+    }
+
     /* for larger desktops */
 
     @media screen and (min-width: 1200px) {
@@ -690,5 +696,6 @@ main {
             padding-right: 50px;
             padding-left: 50px;
         }
+
     }
 }
