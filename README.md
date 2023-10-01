@@ -226,6 +226,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed an issue with contact page where the sign up form radio buttons were not even to fix this I added different divs for the radio buttons to fix the spacing between the elements 
 - Fixed error message for form changed the method from POST to GET to fix this. 
 - Fixed issue regarding hover effect the effect would be visible after clicking on mobile changing to a media query to only show up when hovered on laptops and desktops 
+- Fixed an error with 404 page the git hub page was continuing to be shown to fix this I renamed the file to a 404.html and this fixed the issue 
 
 
 ### Lighthouse testing 
