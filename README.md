@@ -227,6 +227,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed error message for form changed the method from POST to GET to fix this. 
 - Fixed issue regarding hover effect the effect would be visible after clicking on mobile changing to a media query to only show up when hovered on laptops and desktops 
 - Fixed an error with 404 page the git hub page was continuing to be shown to fix this I renamed the file to a 404.html and this fixed the issue 
+- Fixed styling errors regarding 404 page social icons weren't sticking to the bottom of the page increased margin and padding value to fix this
 
 
 ### Lighthouse testing 

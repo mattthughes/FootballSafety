@@ -99,7 +99,7 @@ main {
 #bg-logo {
     height: 450px;
     width: 100%;
-    background: url("../images/backgroundProject.webp") no-repeat center center/cover;
+    background: url("../images/background-home.webp") no-repeat center center/cover;
     position: relative;
 }
 
@@ -543,6 +543,8 @@ main {
     .join-button {
         font-size: 140%;
     }
+
+
 
     #social-networks {
         font-size: 200%;
