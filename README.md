@@ -155,9 +155,15 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 - The contact form will allow users to opt in for further marketing with a checkbox, radio buttons showing where they found the site, the site will allow users to fill in there information such as first name, surname and email address which will all be required. This form will allow users to opt in to provide there own stories and information or any ideas for improving football safety. (See below for the mobile and desktop view)
 
-#### Contact View
+#### Mobile View
 
-![Contact Mobile]()
+![Contact Mobile 1st section](docs/wireframes/contact-mobile1st.png)
+![Contact Mobile 2nd section](docs/wireframes/contact-mobile2nd.png)
+
+#### Desktop view 
+
+![Contact Desktop 1st section](docs/wireframes/contact-section1.png)
+![Contact Desktop 2nd section](docs/wireframes/contact-section2.png)
 
 ### Social Media icons
 
@@ -170,6 +176,30 @@ This is how the project will look on a desktop device as shown on the mobile ver
 #### Social Media Desktop
 
 ![Social Media desktop view](docs/wireframes/socialmediadesktop.png)
+
+### Thank you page 
+
+* This page will showcase to the user the form has been completed with another option for the user to press go back to go to the home page
+
+#### Mobile view
+
+![Thank you mobile](docs/wireframes/thank-you-mobile.png)
+
+#### Desktop view 
+
+![Thank you desktop](docs/wireframes/thank-you-desktop.png)
+
+### error 404 page
+
+* This page will be used instead of the usual github page this will keep the same design of the websites other pages with the social icons and navigation bar and will simply state this page doesnt exist there will also be an option to go back to the home page just like the thank you page.
+
+#### Mobile view
+
+![error mobile](docs/wireframes/error-404-mobile.png)
+
+#### Desktop view
+
+![error desktop](docs/wireframes/error-404-desktop.png)
 
 ## Accesibility
 
@@ -233,6 +263,24 @@ This is how the project will look on a desktop device as shown on the mobile ver
 ### Lighthouse testing 
 
 
-#### Before Optimisation
+#### After Optimisation
 
-*This showcases each page before optimisation showing the home, history and contact page for mobiles and desktop versions.
+*This showcases each page, after optimisation showing the home, history and contact page for  desktop versions.
+
+#### Home
+
+![Home Lighthouse testing](docs/wireframes/home-lighthouse.png)
+
+#### History 
+
+![History Lighthouse testing](docs/wireframes/history-lighthouse.png)
+
+#### Contact-Page 
+
+![Contact Page Lighthouse testing](docs/wireframes/contact-lighthouse.png)
+
+
+#### Thank you page
+
+![Thank you page Lighthouse testing](docs/wireframes/thank-you-page-lighthouse.png)
+
