@@ -544,6 +544,26 @@ main {
         font-size: 140%;
     }
 
+    #thank-you-message {
+        padding: 175px;
+        margin: 109px auto;
+    }
+
+    #thank-you-message h2 {
+        font-size: 25px;
+    }
+
+    #thank-you-message p {
+        font-size: 20px;
+    }
+
+    .back-button {
+        margin: 44px;
+        font-size: 20px;
+        width: 50%;
+        height: 40px;
+    }
+
 
 
     #social-networks {
@@ -732,6 +752,21 @@ main {
 
         .join-button {
             font-size: 150%;
+        }
+
+        #thank-you-message h2 {
+            font-size: 30px;
+            padding-bottom: 20px;
+        }
+
+        #thank-you-message p {
+            font-size: 25px;
+        }
+
+        .back-button {
+            width: 30%;
+            font-size: 25px;
+            height: 55px;
         }
 
         #social-networks {
