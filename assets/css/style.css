@@ -564,7 +564,15 @@ main {
         height: 40px;
     }
 
+    .error-404 {
+        padding: 175px;
+        margin: 109px auto;
+    }
 
+    .error-404 p {
+        font-size: 20px;
+        padding-top: 80px;
+    }
 
     #social-networks {
         font-size: 200%;
@@ -767,6 +775,15 @@ main {
             width: 30%;
             font-size: 25px;
             height: 55px;
+        }
+
+        .error-404 h2 {
+            font-size: 30px;
+            padding-bottom: 20px;
+        }
+
+        .error-404 p {
+            font-size: 25px;
         }
 
         #social-networks {
