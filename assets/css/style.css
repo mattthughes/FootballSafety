@@ -464,30 +464,33 @@ main {
     }
 
     .timeline-dimensions::after {
-        left: 53%;
-        right: 0;
-        margin-top: 15%;
+        left: 50%;
+        width: 10px;
+        margin-top: 11%;
     }
 
     .timeline-container::after {
-        right: 0;
-        left: -55px;
-        height: 30px;
-        width: 30px;
+        content: '';
+        position: absolute;
+        right: -17px;
+        left: 97%;
+        height: 35px;
+        z-index: 1;
+        width: 35px;
     }
 
     .left {
-        left: 60%;
+        left: 0;
         width: 50%;
     }
 
     .right {
-        right: 9%;
-        width: 57%;
+        left: 50%;
+        width: 50%;
     }
 
     .right::after {
-        left: 106%;
+        left: -16px;
     }
 
     .content {
@@ -694,32 +697,6 @@ main {
 
         .timeline-dimensions {
             width: 100%;
-        }
-
-        .timeline-container {
-            right: 30px;
-        }
-
-        .left {
-            left: 635px;
-        }
-
-        .right {
-            right: 109px;
-        }
-
-        .content {
-            padding: 10px;
-        }
-
-        .timeline-dimensions::after {
-            margin-top: 10%;
-            width: 14px;
-            left: 596px;
-        }
-
-        .timeline-container.right::after {
-            left: 690px;
         }
 
         .future-updates {
