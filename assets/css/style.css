@@ -149,7 +149,7 @@ main {
 }
 
 #safety-vid video {
-    width: 90%;
+    width: 100%;
     padding-top: 10px;
     align-items: center;
 }
@@ -380,6 +380,24 @@ main {
     padding-left: 20px;
 }
 
+@media screen and (min-width:300px) {
+    #social-networks {
+        padding-top: 100%;
+    }
+}
+
+@media screen and (min-width:500px) {
+
+    #thank-you-message p {
+        padding-top: 70px;
+    }
+
+
+    #social-networks {
+        padding-top: 100%;
+    }
+}
+
 
 
 /* Media query: tablets and larger (768px and up) */
@@ -592,7 +610,7 @@ main {
         padding-right: 40px;
         padding-left: 40px;
     }
-    
+
 
     /* For laptop devices */
     @media screen and (min-width: 900px) {
