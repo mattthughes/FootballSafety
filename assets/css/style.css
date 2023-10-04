@@ -2,809 +2,804 @@
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 /* generic styles */
 body {
-    font-family: "Titillium Web", sans-serif;
-    display: flex;
-    flex-direction: column;
-    background-color: #16001e;
+  font-family: "Titillium Web", sans-serif;
+  display: flex;
+  flex-direction: column;
+  background-color: #16001e;
 }
 
 h1 {
-    font-family: "Cinzel", serif;
-    text-decoration: solid;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: #ff3c38;
-    font-size: 20px;
-    text-align: center;
-    padding-left: 5px;
+  font-family: "Cinzel", serif;
+  text-decoration: solid;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #ff3c38;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 5px;
 }
 
 h2,
 h3,
 h4 {
-    font-family: "Cinzel", serif;
-    text-decoration: solid;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: #ff3c38;
+  font-family: "Cinzel", serif;
+  text-decoration: solid;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #ff3c38;
 }
 
 header {
-    position: fixed;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    z-index: 99;
-    background-color: #16001e;
-    width: 100%;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  z-index: 99;
+  background-color: #16001e;
+  width: 100%;
 }
 
 header i {
-    padding-right: 10px;
+  padding-right: 10px;
 }
 
 header a {
-    text-decoration: none;
-    color: whitesmoke;
+  text-decoration: none;
+  color: whitesmoke;
 }
 
 #menu {
-    list-style-type: none;
+  list-style-type: none;
 }
 
-#menu>li {
-    margin-bottom: 1em;
+#menu > li {
+  margin-bottom: 1em;
 }
 
 /* Nav bar styles */
 
 nav {
-    position: absolute;
-    top: 100%;
-    padding: 0 1rem;
-    width: 100%;
-    left: 0;
-    box-shadow: 2px 2px rgb(255, 255, 255);
-    display: none;
-    background-color: #16001e;
+  position: absolute;
+  top: 100%;
+  padding: 0 1rem;
+  width: 100%;
+  left: 0;
+  box-shadow: 2px 2px rgb(255, 255, 255);
+  display: none;
+  background-color: #16001e;
 }
 
-.nav-toggle:checked~nav {
-    display: block;
+.nav-toggle:checked ~ nav {
+  display: block;
 }
 
 .nav-toggle {
-    display: none;
+  display: none;
 }
 
 .nav-label {
-    font-size: 1em;
+  font-size: 1em;
 }
 
 main {
-    /* Make main element take up any surplus space to push footer down */
-    flex: 1 0 auto;
-    margin-top: 47px;
-    display: flex;
-    flex-direction: column;
+  /* Make main element take up any surplus space to push footer down */
+  flex: 1 0 auto;
+  margin-top: 47px;
+  display: flex;
+  flex-direction: column;
 }
 
 #bg-logo {
-    height: 450px;
-    width: 100%;
-    background: url("../images/background-home.webp") no-repeat center center/cover;
-    position: relative;
+  height: 450px;
+  width: 100%;
+  background: url("../images/background-home.webp") no-repeat center
+    center/cover;
+  position: relative;
 }
 
 #cover-text {
-    position: absolute;
-    padding-left: 10px;
-    width: 100%;
-    top: 0;
-    margin-top: 164px;
-    padding-top: 0px;
-    min-height: 40px;
-    font-size: 70%;
-    text-align: center;
+  position: absolute;
+  padding-left: 10px;
+  width: 100%;
+  top: 0;
+  margin-top: 164px;
+  padding-top: 0px;
+  min-height: 40px;
+  font-size: 70%;
+  text-align: center;
 }
 
 /* About us styles */
 
 #about-us {
-    width: 80%;
-    margin: auto;
-    padding-top: 10px;
+  width: 80%;
+  margin: auto;
+  padding-top: 10px;
 }
 
 #about-text {
-    color: white;
-    font-size: 1rem;
-    text-align: center;
+  color: white;
+  font-size: 1rem;
+  text-align: center;
 }
 
 /* Football Safety styles */
 
 #football-safety {
-    width: 80%;
-    padding-top: 15px;
-    margin: auto;
+  width: 80%;
+  padding-top: 15px;
+  margin: auto;
 }
 
 #football-safety h3 {
-    font-size: 80%;
+  font-size: 80%;
 }
 
 #safety-text {
-    color: white;
-    padding-top: 20px;
-    font-size: 1rem;
-    text-align: center;
+  color: white;
+  padding-top: 20px;
+  font-size: 1rem;
+  text-align: center;
 }
 
 #safety-vid video {
-    width: 100%;
-    padding-top: 10px;
-    align-items: center;
+  width: 100%;
+  padding-top: 10px;
+  align-items: center;
 }
 
 #safety-vid a {
-    color: white;
-    align-self: center;
-    padding: 0 10px;
+  color: white;
+  align-self: center;
+  padding: 0 10px;
 }
 
 /* History Styles */
 
 .history {
-    text-align: center;
-    width: 80%;
-    margin: auto;
-    color: #fff;
-    padding-top: 10px;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  color: #fff;
+  padding-top: 10px;
 }
 
 .history h2 {
-    font-size: 15px;
-    padding-bottom: 20px;
+  font-size: 15px;
+  padding-bottom: 20px;
 }
 
 /* Timeline styles */
 
 .timeline {
-    position: relative;
-    margin: 0 auto;
-    max-width: 400px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
+  position: relative;
+  margin: 0 auto;
+  max-width: 400px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .timeline h3 {
-    padding-top: 25px;
+  padding-top: 25px;
 }
 
 .timeline-dimensions {
-    width: 80%;
-    margin: auto 30px;
-    padding-top: 27px;
+  width: 80%;
+  margin: auto 30px;
+  padding-top: 27px;
 }
 
 .timeline-dimensions::after {
-    content: "";
-    position: absolute;
-    width: 7px;
-    top: 0;
-    bottom: 0;
-    margin-top: 80px;
-    left: 10px;
-    background-color: #fff;
+  content: "";
+  position: absolute;
+  width: 7px;
+  top: 0;
+  bottom: 0;
+  margin-top: 80px;
+  left: 10px;
+  background-color: #fff;
 }
 
 .timeline-container {
-    border: solid 2px gray;
-    border-radius: 10%;
-    position: relative;
-    color: gray;
-    padding: 10px;
+  border: solid 2px gray;
+  border-radius: 10%;
+  position: relative;
+  color: gray;
+  padding: 10px;
 }
 
 .timeline-container::after {
-    content: "";
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    background-color: black;
-    border: 4px solid #fff;
-    border-radius: 50%;
-    z-index: 1;
-    bottom: 0;
-    top: 0;
-    left: -31px;
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  border: 4px solid #fff;
+  border-radius: 50%;
+  z-index: 1;
+  bottom: 0;
+  top: 0;
+  left: -31px;
 }
 
 .content p {
-    color: #fff;
+  color: #fff;
 }
 
 .content small {
-    font-size: 15px;
-    font-weight: 900;
+  font-size: 15px;
+  font-weight: 900;
 }
 
 /* Future updates styles */
 
 .future-updates {
-    text-align: center;
-    width: 80%;
-    margin: auto;
-    color: #fff;
-    padding-top: 26px;
-    padding-bottom: 10px;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  color: #fff;
+  padding-top: 26px;
+  padding-bottom: 10px;
 }
 
 .future-updates h3 {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 .future-text {
-    font-size: 15px;
+  font-size: 15px;
 }
 
 /* contact form styles */
 
 #contact {
-    display: flex;
-    justify-content: space-evenly;
-    flex-grow: 1;
+  display: flex;
+  justify-content: space-evenly;
+  flex-grow: 1;
 }
 
 #contact-form {
-    padding-right: 40px;
-    padding-left: 35px;
-    padding-top: 20px;
-    padding-bottom: 45px;
-    border: 2px solid #5c6672;
+  padding-right: 40px;
+  padding-left: 35px;
+  padding-top: 20px;
+  padding-bottom: 45px;
+  border: 2px solid #5c6672;
 }
 
 #contact-form h2 {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 #contact-form label {
-    color: white;
+  color: white;
 }
 
 .text-input {
-    color: white;
-    border: solid 1px #5c6672;
-    background: transparent;
-    width: 100%;
+  color: white;
+  border: solid 1px #5c6672;
+  background: transparent;
+  width: 100%;
 }
 
 .marketing {
-    padding-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 .marketing-question p {
-    color: white;
-    padding-bottom: 20px;
-    padding-top: 20px;
+  color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 .radio-buttons {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    padding-bottom: 20px;
-    color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding-bottom: 20px;
+  color: white;
 }
 
 .join-button {
-    border-radius: 10%;
-    position: relative;
-    padding-bottom: 10px;
-    text-align: center;
-    margin-bottom: 75px;
-    right: 20px;
-    color: white;
-    border: 2px solid #5c6672;
-    background-color: #5c6672;
+  border-radius: 10%;
+  position: relative;
+  padding-bottom: 10px;
+  text-align: center;
+  margin-bottom: 75px;
+  right: 20px;
+  color: white;
+  border: 2px solid #5c6672;
+  background-color: #5c6672;
 }
 
 /* Thank you styles */
 #thank-you-message {
-    width: 100%;
-    padding: 40px;
-    margin: 100px auto;
-    text-align: center;
+  width: 100%;
+  padding: 40px;
+  margin: 100px auto;
+  text-align: center;
 }
 
 #thank-you-message h2 {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 #thank-you-message p {
-    color: #fff;
-    padding-top: 20px;
+  color: #fff;
+  padding-top: 20px;
 }
 
 .back-button {
-    margin: 30px;
-    padding: 5px;
-    height: 30px;
-    background-color: #5c6672;
-    color: white;
-    width: 50%;
+  margin: 30px;
+  padding: 5px;
+  height: 30px;
+  background-color: #5c6672;
+  color: white;
+  width: 50%;
 }
 
 /* Error styles  */
 .error-404 {
-    text-align: center;
-    width: 100%;
-    padding: 40px;
-    margin: 100px auto;
+  text-align: center;
+  width: 100%;
+  padding: 40px;
+  margin: 100px auto;
 }
 
 .error-404 h2 {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .error-404 p {
-    color: #fff;
-    padding-top: 55px;
+  color: #fff;
+  padding-top: 55px;
 }
 
 .error-404 hr {
-    display: none;
+  display: none;
 }
 
 /* footer styles */
 
 #social-networks {
-    display: flex;
-    justify-content: space-between;
-    font-size: 150%;
-    padding-top: 16px;
-    list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 150%;
+  padding-top: 16px;
+  list-style-type: none;
 }
 
-#social-networks>li {
-    padding-right: 15px;
-    padding-left: 20px;
+#social-networks > li {
+  padding-right: 15px;
+  padding-left: 20px;
 }
 
-@media screen and (min-width:300px) {
-    #social-networks {
-        padding-top: 5%;
-    }
+@media screen and (min-width: 300px) {
+  #social-networks {
+    padding-top: 5%;
+  }
 }
 
-@media screen and (min-width:500px) {
+@media screen and (min-width: 500px) {
+  #thank-you-message p {
+    padding-top: 70px;
+  }
 
-    #thank-you-message p {
-        padding-top: 70px;
-    }
-
-
-    #social-networks {
-        padding-top: 5%;
-    }
+  #social-networks {
+    padding-top: 5%;
+  }
 }
-
-
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
-    h1 {
-        font-size: 30px;
+  h1 {
+    font-size: 30px;
+  }
+
+  nav {
+    display: flex;
+    position: relative;
+    width: fit-content;
+    padding-left: 0;
+    letter-spacing: 4px;
+    box-shadow: none;
+    width: 100%;
+    justify-content: right;
+    font-size: 20px;
+  }
+
+  #menu {
+    display: flex;
+  }
+
+  #menu > li {
+    padding-left: 1rem;
+  }
+
+  .nav-toggle-label {
+    display: none;
+  }
+
+  main {
+    margin-top: 79px;
+  }
+
+  #cover-text {
+    width: 40%;
+    height: 52px;
+    font-size: 70%;
+  }
+
+  #about-text {
+    width: 100%;
+  }
+
+  .safety-text {
+    width: 100%;
+    padding-top: 15px;
+  }
+
+  #safety-vid video {
+    width: 100%;
+    height: 200px;
+    align-self: center;
+    padding-top: 15px;
+  }
+
+  #safety-vid a {
+    font-size: 10px;
+  }
+
+  .history {
+    width: 80%;
+    padding-top: 20px;
+  }
+
+  .history h2 {
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+
+  .timeline {
+    max-width: 1200px;
+  }
+
+  .timeline h3 {
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .timeline-dimensions {
+    align-self: center;
+    padding-top: 30px;
+  }
+
+  .timeline-dimensions::after {
+    left: 50%;
+    width: 10px;
+    margin-top: 11%;
+  }
+
+  .timeline-container::after {
+    content: "";
+    position: absolute;
+    right: -17px;
+    left: 97%;
+    height: 35px;
+    z-index: 1;
+    width: 35px;
+  }
+
+  .left {
+    left: 0;
+    width: 50%;
+  }
+
+  .right {
+    left: 50%;
+    width: 50%;
+  }
+
+  .right::after {
+    left: -16px;
+  }
+
+  .content {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .future-updates {
+    padding-top: 25px;
+    width: 80%;
+  }
+
+  .future-updates h3 {
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  .future-text {
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+
+  #contact {
+    width: 100%;
+  }
+
+  #contact-form {
+    position: relative;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 35px;
+  }
+
+  #contact-form h2 {
+    font-size: 25px;
+  }
+
+  .text-input {
+    font-size: 150%;
+    margin: 20px auto;
+  }
+
+  #contact-form label {
+    font-size: 20px;
+  }
+
+  .marketing-question p {
+    font-size: 20px;
+  }
+
+  .radio-buttons {
+    font-size: 150%;
+  }
+
+  .join-button {
+    font-size: 140%;
+  }
+
+  #thank-you-message {
+    padding: 175px;
+    margin: 109px auto;
+  }
+
+  #thank-you-message h2 {
+    font-size: 25px;
+  }
+
+  #thank-you-message p {
+    font-size: 20px;
+  }
+
+  .back-button {
+    margin: 44px;
+    font-size: 20px;
+    width: 50%;
+    height: 40px;
+  }
+
+  .error-404 {
+    padding: 175px;
+    margin: 109px auto;
+  }
+
+  .error-404 p {
+    font-size: 20px;
+    padding-top: 80px;
+  }
+
+  #social-networks {
+    font-size: 200%;
+  }
+
+  #social-networks > li {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+
+  /* For laptop devices */
+  @media screen and (min-width: 900px) {
+    #menu a:hover {
+      border: solid 2px white;
+    }
+
+    #social-networks :hover {
+      background-color: rgb(255, 255, 255);
+      width: fit-content;
+      height: fit-content;
+      border-radius: 50%;
+      color: #fff;
+    }
+
+    #safety-vid a:hover {
+      background-color: #ff3c38;
+    }
+
+    .join-button:hover,
+    .back-button:hover {
+      background-color: #ff3c38;
+    }
+  }
+
+  /* for larger desktops */
+
+  @media screen and (min-width: 1200px) {
+    header h1 {
+      font-size: 40px;
     }
 
     nav {
-        display: flex;
-        position: relative;
-        width: fit-content;
-        padding-left: 0;
-        letter-spacing: 4px;
-        box-shadow: none;
-        width: 100%;
-        justify-content: right;
-        font-size: 20px;
+      font-size: 30px;
     }
 
-    #menu {
-        display: flex;
-    }
-
-    #menu>li {
-        padding-left: 1rem;
-    }
-
-    .nav-toggle-label {
-        display: none;
-    }
-
-    main {
-        margin-top: 79px;
+    #bg-logo {
+      height: 800px;
     }
 
     #cover-text {
-        width: 40%;
-        height: 52px;
-        font-size: 70%;
+      font-size: 20px;
+      padding-top: 120px;
+    }
+
+    #about-us {
+      width: 100%;
+    }
+
+    #about-us h3 {
+      font-size: 25px;
     }
 
     #about-text {
-        width: 100%;
+      width: 100%;
+      font-size: 25px;
+      padding-left: 25px;
+      padding-right: 25px;
     }
 
-    .safety-text {
-        width: 100%;
-        padding-top: 15px;
+    #football-safety {
+      width: 100%;
+    }
+
+    #football-safety h3 {
+      padding-bottom: 20px;
+    }
+
+    #safety-text {
+      font-size: 25px;
+      width: 100%;
+      padding-left: 25px;
+      padding-right: 25px;
+    }
+
+    #safety-text h2 {
+      font-size: 25px;
+      padding-bottom: 20px;
     }
 
     #safety-vid video {
-        width: 100%;
-        height: 200px;
-        align-self: center;
-        padding-top: 15px;
+      width: 100%;
+      height: 450px;
+      padding-left: 20px;
+      padding-right: 20px;
     }
 
     #safety-vid a {
-        font-size: 10px;
+      font-size: 25px;
     }
 
     .history {
-        width: 80%;
-        padding-top: 20px;
+      width: 100%;
+      padding-top: 52px;
     }
 
     .history h2 {
-        font-size: 20px;
-        padding-bottom: 20px;
+      font-size: 25px;
+      padding-top: 30px;
+      padding-bottom: 20px;
     }
 
-    .timeline {
-        max-width: 1200px;
-    }
-
-    .timeline h3 {
-        font-size: 25px;
-        text-align: center;
+    .history-text {
+      font-size: 20px;
+      padding-left: 15px;
+      padding-right: 20px;
     }
 
     .timeline-dimensions {
-        align-self: center;
-        padding-top: 30px;
-    }
-
-    .timeline-dimensions::after {
-        left: 50%;
-        width: 10px;
-        margin-top: 11%;
-    }
-
-    .timeline-container::after {
-        content: '';
-        position: absolute;
-        right: -17px;
-        left: 97%;
-        height: 35px;
-        z-index: 1;
-        width: 35px;
-    }
-
-    .left {
-        left: 0;
-        width: 50%;
-    }
-
-    .right {
-        left: 50%;
-        width: 50%;
-    }
-
-    .right::after {
-        left: -16px;
-    }
-
-    .content {
-        font-size: 20px;
-        padding: 10px;
-        margin: 10px;
+      width: 100%;
     }
 
     .future-updates {
-        padding-top: 25px;
-        width: 80%;
+      width: 100%;
+      padding-top: 20px;
     }
 
-    .future-updates h3 {
-        font-size: 25px;
-        padding-bottom: 10px;
-        padding-top: 10px;
+    .future-updates h2 {
+      font-size: 25px;
+      padding-bottom: 20px;
     }
 
     .future-text {
-        font-size: 20px;
-        padding-bottom: 20px;
-    }
-
-    #contact {
-        width: 100%;
+      font-size: 20px;
+      padding-left: 15px;
+      padding-right: 20px;
     }
 
     #contact-form {
-        position: relative;
-        max-width: 500px;
-        margin: 20px auto;
-        padding: 35px;
+      max-width: 1600px;
+      margin: 90px;
+      padding: 40px 50px 40px 40px;
     }
 
     #contact-form h2 {
-        font-size: 25px;
-    }
-
-    .text-input {
-        font-size: 150%;
-        margin: 20px auto;
+      font-size: 35px;
+      padding-bottom: 50px;
     }
 
     #contact-form label {
-        font-size: 20px;
+      font-size: 25px;
+    }
+
+    .text-input {
+      font-size: 150%;
+      margin: 20px auto;
+      width: 100%;
+      height: 60px;
     }
 
     .marketing-question p {
-        font-size: 20px;
+      font-size: 25px;
     }
 
     .radio-buttons {
-        font-size: 150%;
+      font-size: 300%;
     }
 
     .join-button {
-        font-size: 140%;
-    }
-
-    #thank-you-message {
-        padding: 175px;
-        margin: 109px auto;
+      font-size: 150%;
     }
 
     #thank-you-message h2 {
-        font-size: 25px;
+      font-size: 30px;
+      padding-bottom: 20px;
     }
 
     #thank-you-message p {
-        font-size: 20px;
+      font-size: 25px;
     }
 
     .back-button {
-        margin: 44px;
-        font-size: 20px;
-        width: 50%;
-        height: 40px;
+      width: 30%;
+      font-size: 25px;
+      height: 55px;
     }
 
-    .error-404 {
-        padding: 175px;
-        margin: 109px auto;
+    .error-404 h2 {
+      font-size: 30px;
+      padding-bottom: 20px;
     }
 
     .error-404 p {
-        font-size: 20px;
-        padding-top: 80px;
+      font-size: 25px;
     }
 
     #social-networks {
-        font-size: 200%;
+      font-size: 300%;
     }
 
-    #social-networks>li {
-        padding-right: 40px;
-        padding-left: 40px;
+    #social-networks > li {
+      padding-right: 50px;
+      padding-left: 50px;
     }
-
-
-    /* For laptop devices */
-    @media screen and (min-width: 900px) {
-        #menu a:hover {
-            border: solid 2px white;
-        }
-
-        #social-networks :hover {
-            background-color: rgb(255, 255, 255);
-            width: fit-content;
-            height: fit-content;
-            border-radius: 50%;
-            color: #fff;
-        }
-
-        #safety-vid a:hover {
-            background-color: #ff3c38;
-        }
-
-        .join-button:hover,
-        .back-button:hover {
-            background-color: #ff3c38;
-        }
-    }
-
-    /* for larger desktops */
-
-    @media screen and (min-width: 1200px) {
-        header h1 {
-            font-size: 40px;
-        }
-
-        nav {
-            font-size: 30px;
-        }
-
-        #bg-logo {
-            height: 800px;
-        }
-
-        #cover-text {
-            font-size: 20px;
-            padding-top: 120px;
-        }
-
-        #about-us {
-            width: 100%;
-        }
-
-        #about-us h3 {
-            font-size: 25px;
-        }
-
-        #about-text {
-            width: 100%;
-            font-size: 25px;
-            padding-left: 25px;
-            padding-right: 25px;
-        }
-
-        #football-safety {
-            width: 100%;
-        }
-
-        #football-safety h3 {
-            padding-bottom: 20px;
-        }
-
-        #safety-text {
-            font-size: 25px;
-            width: 100%;
-            padding-left: 25px;
-            padding-right: 25px;
-        }
-
-        #safety-text h2 {
-            font-size: 25px;
-            padding-bottom: 20px;
-        }
-
-        #safety-vid video {
-            width: 100%;
-            height: 450px;
-            padding-left: 20px;
-            padding-right: 20px;
-        }
-
-        #safety-vid a {
-            font-size: 25px;
-        }
-
-        .history {
-            width: 100%;
-            padding-top: 52px;
-        }
-
-        .history h2 {
-            font-size: 25px;
-            padding-top: 30px;
-            padding-bottom: 20px;
-        }
-
-        .history-text {
-            font-size: 20px;
-            padding-left: 15px;
-            padding-right: 20px;
-        }
-
-        .timeline-dimensions {
-            width: 100%;
-        }
-
-
-        .future-updates {
-            width: 100%;
-            padding-top: 20px;
-        }
-
-        .future-updates h2 {
-            font-size: 25px;
-            padding-bottom: 20px;
-        }
-
-        .future-text {
-            font-size: 20px;
-            padding-left: 15px;
-            padding-right: 20px;
-        }
-
-        #contact-form {
-            max-width: 1600px;
-            margin: 90px;
-            padding: 40px 50px 40px 40px;
-        }
-
-        #contact-form h2 {
-            font-size: 35px;
-            padding-bottom: 50px;
-        }
-
-        #contact-form label {
-            font-size: 25px;
-        }
-
-        .text-input {
-            font-size: 150%;
-            margin: 20px auto;
-            width: 100%;
-            height: 60px;
-        }
-
-        .marketing-question p {
-            font-size: 25px;
-        }
-
-        .radio-buttons {
-            font-size: 300%;
-        }
-
-        .join-button {
-            font-size: 150%;
-        }
-
-        #thank-you-message h2 {
-            font-size: 30px;
-            padding-bottom: 20px;
-        }
-
-        #thank-you-message p {
-            font-size: 25px;
-        }
-
-        .back-button {
-            width: 30%;
-            font-size: 25px;
-            height: 55px;
-        }
-
-        .error-404 h2 {
-            font-size: 30px;
-            padding-bottom: 20px;
-        }
-
-        .error-404 p {
-            font-size: 25px;
-        }
-
-        #social-networks {
-            font-size: 300%;
-        }
-
-        #social-networks>li {
-            padding-right: 50px;
-            padding-left: 50px;
-        }
-    }
+  }
 }
