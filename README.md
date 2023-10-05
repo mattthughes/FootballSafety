@@ -305,3 +305,25 @@ This is how the project will look on a desktop device as shown on the mobile ver
 #### Thank you page
 
 ![Thank you page Lighthouse testing](docs/wireframes/thank-you-page-lighthouse.png)
+
+
+### Manual Testing 
+
+#### Aims
+
+* The aim is to make sure the website is responsive for all screen sizes without needing to rotate the screen.
+* Making sure all elements are consistent and not overlapping or not on the screen in general.
+* Each page and device size has the same style making sure font is consistent and isnt different from page to page. 
+* All videos links and buttons work as intended
+* Make sure error page is deployed by github rather than githubs own error page.
+* When submitting form the form submission takes the user to a thank you page keeping the same design as the rest of the website 
+
+
+#### Testing steps
+
+* I will test the responsiveness for all screen sizes by firstly right clicking on the website and using the inspect tool which will open the google chrome deveopler tools
+* Following this I click on the laptop in the developer tools and change the aspect ratio to 280px the lowest screen size and begin adjusting the screen size for all pages making sure all elements are displaying correctly on all screen sizes.
+* I will be testing all elements such as links making sure they open in new tabs for social media icons and video links, buttons making sure they return to the right pages and there is no errors
+* I will be making sure the video doesn't autoplay and is muted to start with to follow best practices.
+* I will make sure github will be finding the error page I created for the website compared to the usual github error page that is usually displayed.
+* Doing the above steps will make sure each element is responive and is working as intended.
