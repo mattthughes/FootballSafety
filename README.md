@@ -160,7 +160,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 ![Contact Mobile 1st section](docs/wireframes/contact-mobile1st.png)
 ![Contact Mobile 2nd section](docs/wireframes/contact-mobile2nd.png)
 
-#### Desktop view 
+#### Desktop view
 
 ![Contact Desktop 1st section](docs/wireframes/contact-section1.png)
 ![Contact Desktop 2nd section](docs/wireframes/contact-section2.png)
@@ -177,21 +177,21 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![Social Media desktop view](docs/wireframes/socialmediadesktop.png)
 
-### Thank you page 
+### Thank you page
 
-* This page will showcase to the user the form has been completed with another option for the user to press go back to go to the home page
+- This page will showcase to the user the form has been completed with another option for the user to press go back to go to the home page
 
 #### Mobile view
 
 ![Thank you mobile](docs/wireframes/thank-you-mobile.png)
 
-#### Desktop view 
+#### Desktop view
 
 ![Thank you desktop](docs/wireframes/thank-you-desktop.png)
 
 ### error 404 page
 
-* This page will be used instead of the usual github page this will keep the same design of the websites other pages with the social icons and navigation bar and will simply state this page doesnt exist there will also be an option to go back to the home page just like the thank you page.
+- This page will be used instead of the usual github page this will keep the same design of the websites other pages with the social icons and navigation bar and will simply state this page doesnt exist there will also be an option to go back to the home page just like the thank you page.
 
 #### Mobile view
 
@@ -253,38 +253,55 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed an issue where the hover element was showing twice and was much bigger than the social media icon to fix this I changed the width and height to fit the content.
 - Fixed an issue where the nav bar wasnt displaying correctly the contact us part of the nav bar was going onto the next line to fix this I changed the padding left value to 0
 - Fixed a CSS error that stated top could not be just 100 added the unit to 0 to fix this issue.
-- Fixed an issue with contact page where the sign up form radio buttons were not even to fix this I added different divs for the radio buttons to fix the spacing between the elements 
-- Fixed error message for form changed the method from POST to GET to fix this. 
-- Fixed issue regarding hover effect the effect would be visible after clicking on mobile changing to a media query to only show up when hovered on laptops and desktops 
-- Fixed an error with 404 page the git hub page was continuing to be shown to fix this I renamed the file to a 404.html and this fixed the issue 
+- Fixed an issue with contact page where the sign up form radio buttons were not even to fix this I added different divs for the radio buttons to fix the spacing between the elements
+- Fixed error message for form changed the method from POST to GET to fix this.
+- Fixed issue regarding hover effect the effect would be visible after clicking on mobile changing to a media query to only show up when hovered on laptops and desktops
+- Fixed an error with 404 page the git hub page was continuing to be shown to fix this I renamed the file to a 404.html and this fixed the issue
 - Fixed styling errors regarding 404 page social icons weren't sticking to the bottom of the page increased margin and padding value to fix this.
 - Fixed timeline error the timeline on tablets mobiles and desktop devices was working but when checking the responsiveness of the website the circles on the timeline were not staying consistent, The issue for this was the large padding left values with different media querys in order to fix this I adjusted these values and aligned the timeline containers to the center to make sure they were consistent and responsive to fix the circles I increased the left property to 97.5% and this fixed how the circles were aligned on the timeline for larger devices such as tablets and larger desktops. I also changed the width for both left and right containers for tablets to 50% and to 100% for the desktop devices.
 - Fixed issue regarding contact page, thank you page, error page by adding a padding-top value for social media icons making sure the layout was staying consitent and was responsive on multiple screen sizes.
-- Fixed button error by changing element to an anchor tag and removing the type attribute in order to follow better practices 
-[Button Error](docs/wireframes/button-error.png)
+- Fixed button error by changing element to an anchor tag and removing the type attribute in order to follow better practices.
 
+![Button Error](docs/wireframes/button-error.png)
 
-### Lighthouse testing 
+### HTML Validation
 
+#### Index
+
+![Index Validation](docs/wireframes/index-validator.png)
+
+#### History
+
+![History Validation](docs/wireframes/history-validator.png)
+
+#### Contact us
+
+![Contact us Validation](docs/wireframes/contact-validator.png)
+
+### CSS Validation
+
+* I have completed all the nessary checks making sure all the css code written has no errors and follows best practices. 
+
+![Css Validation](docs/wireframes/css-validator.png)
+
+### Lighthouse testing
 
 #### After Optimisation
 
-*This showcases each page, after optimisation showing the home, history and contact page for  desktop versions.
+* This showcases each page, after optimisation showing the home, history and contact page for desktop versions.
 
 #### Home
 
 ![Home Lighthouse testing](docs/wireframes/home-lighthouse.png)
 
-#### History 
+#### History
 
 ![History Lighthouse testing](docs/wireframes/history-lighthouse.png)
 
-#### Contact-Page 
+#### Contact-Page
 
 ![Contact Page Lighthouse testing](docs/wireframes/contact-lighthouse.png)
-
 
 #### Thank you page
 
 ![Thank you page Lighthouse testing](docs/wireframes/thank-you-page-lighthouse.png)
-
