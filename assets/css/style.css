@@ -333,15 +333,16 @@ main {
 #thank-you-message p {
     color: #fff;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .back-button {
     margin: 30px;
     padding: 5px;
-    height: 30px;
     background-color: #5c6672;
     color: white;
-    width: 50%;
+    text-decoration: none;
+
 }
 
 /* Error styles  */
