@@ -151,6 +151,20 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![History Desktop](docs/wireframes/desktoptimeline.png)
 
+### Gallery 
+
+- This section will showcase everything we are trying to avoid showing the aftermath of these disasters, showing events from Hillsborough and the bradford city fire along with the crowd trouble during the champions league final referenced on the home page this page will be informative and allow users to understand the impact these events have had on the football world. (See below for the mobile and desktop view)
+
+#### Mobile view
+
+![Gallery Mobile 1st section](docs/wireframes/gallery-mobile1st.png)
+![Gallery Mobile 2nd section](docs/wireframes/gallery-mobile2nd.png)
+
+#### Desktop view
+
+![Gallery desktop 1st section](docs/wireframes/gallery-desktop.png)
+![Gallery desktop 2nd section](docs/wireframes/gallery-desktop2nd.png)
+
 ### Contact form
 
 - The contact form will allow users to opt in for further marketing with a checkbox, radio buttons showing where they found the site, the site will allow users to fill in there information such as first name, surname and email address which will all be required. This form will allow users to opt in to provide there own stories and information or any ideas for improving football safety. (See below for the mobile and desktop view)
@@ -261,8 +275,8 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed timeline error the timeline on tablets mobiles and desktop devices was working but when checking the responsiveness of the website the circles on the timeline were not staying consistent, The issue for this was the large padding left values with different media querys in order to fix this I adjusted these values and aligned the timeline containers to the center to make sure they were consistent and responsive to fix the circles I increased the left property to 97.5% and this fixed how the circles were aligned on the timeline for larger devices such as tablets and larger desktops. I also changed the width for both left and right containers for tablets to 50% and to 100% for the desktop devices.
 - Fixed issue regarding contact page, thank you page, error page by adding a padding-top value for social media icons making sure the layout was staying consitent and was responsive on multiple screen sizes.
 - Fixed button error by changing element to an anchor tag and removing the type attribute in order to follow better practices.
-
 ![Button Error](docs/wireframes/button-error.png)
+- Fixed gap between images by adding line height of 0%.
 
 ### HTML Validation
 
