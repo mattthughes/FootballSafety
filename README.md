@@ -40,6 +40,7 @@ The inspiration behind this project came from researching about football disaste
     - Gallery page testing
     - Contact us Page testing
   - Full testing
+    - Testing Results
 
 - Credits
   - Images used
@@ -312,6 +313,10 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![History Lighthouse testing](docs/wireframes/history-lighthouse.png)
 
+#### Gallery 
+
+![Gallery Lighthouse testing](docs/wireframes/gallery-lighthouse.png)
+
 #### Contact-Page
 
 ![Contact Page Lighthouse testing](docs/wireframes/contact-lighthouse.png)
@@ -348,16 +353,16 @@ This is how the project will look on a desktop device as shown on the mobile ver
 :-----:|:-----:|:-----:|:-----:|:-----:
 Nav bar|Pass|Pass|Pass|Pass
 Background image|Pass|N/A|N/A|N/A
-cover text|Pass|N/A|N/A|N/A
-about us|Pass|N/A|N/A|N/A
-history nearly section|Pass|N/A|N/A|N/A
-history nearly video|Pass|N/A|N/A|N/A
-history nearly link|Pass|N/A|N/A|N/A
-history text|N/A|Pass|N/A|N/A
-history timeline|N/A|Pass|N/A|N/A
-future updates|N/A|Pass|N/A|N/A
-contact form |N/A|N/A|N/A|Pass
-gallery|N/A|N/A|Pass|N/A
-contact form button|N/A|N/A|N/A|Pass
-footer|Pass|Pass|Pass|Pass
-social media icons|Pass|Pass|Pass|Pass
+Cover text|Pass|N/A|N/A|N/A
+About us|Pass|N/A|N/A|N/A
+History nearly section|Pass|N/A|N/A|N/A
+History nearly video|Pass|N/A|N/A|N/A
+History nearly link|Pass|N/A|N/A|N/A
+History text|N/A|Pass|N/A|N/A
+History timeline|N/A|Pass|N/A|N/A
+Future updates|N/A|Pass|N/A|N/A
+Contact form |N/A|N/A|N/A|Pass
+Gallery|N/A|N/A|Pass|N/A
+Contact form button|N/A|N/A|N/A|Pass
+Footer|Pass|Pass|Pass|Pass
+Social media icons|Pass|Pass|Pass|Pass
