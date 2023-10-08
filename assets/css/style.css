@@ -136,6 +136,10 @@ main {
     text-align: center;
 }
 
+#about-text p {
+    padding-top: 10px;
+}
+
 /* Football Safety styles */
 
 #football-safety {
@@ -146,6 +150,11 @@ main {
 
 #football-safety h3 {
     font-size: 80%;
+    padding-bottom: 20px;
+}
+
+#football-safety hr {
+    display: none;
 }
 
 #safety-text {
@@ -153,6 +162,10 @@ main {
     padding-top: 20px;
     font-size: 1rem;
     text-align: center;
+}
+
+#safety-text p {
+    padding-bottom: 10px;
 }
 
 #safety-vid video {
@@ -177,8 +190,15 @@ main {
     padding-top: 10px;
 }
 
+
+
 .history h2 {
     font-size: 15px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.history-text p {
     padding-bottom: 20px;
 }
 
@@ -540,12 +560,16 @@ main {
 
     .future-updates h3 {
         font-size: 25px;
-        padding-bottom: 10px;
-        padding-top: 10px;
+        padding-bottom: 20px;
+        padding-top: 20px;
     }
 
     .future-text {
         font-size: 20px;
+        padding-bottom: 20px;
+    }
+
+    .future-text p {
         padding-bottom: 20px;
     }
 
