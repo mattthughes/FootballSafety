@@ -341,3 +341,23 @@ This is how the project will look on a desktop device as shown on the mobile ver
 * I will be making sure the video doesn't autoplay and is muted to start with to follow best practices.
 * I will make sure github will be finding the error page I created for the website compared to the usual github error page that is usually displayed.
 * Doing the above steps will make sure each element is responive and is working as intended.
+
+### Testing Results 
+
+**Responsiveness**|**Index**|**About**|**Gallery**|**Contact us**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Nav bar|Pass|Pass|Pass|Pass
+Background image|Pass|N/A|N/A|N/A
+cover text|Pass|N/A|N/A|N/A
+about us|Pass|N/A|N/A|N/A
+history nearly section|Pass|N/A|N/A|N/A
+history nearly video|Pass|N/A|N/A|N/A
+history nearly link|Pass|N/A|N/A|N/A
+history text|N/A|Pass|N/A|N/A
+history timeline|N/A|Pass|N/A|N/A
+future updates|N/A|Pass|N/A|N/A
+contact form |N/A|N/A|N/A|Pass
+gallery|N/A|N/A|Pass|N/A
+contact form button|N/A|N/A|N/A|Pass
+footer|Pass|Pass|Pass|Pass
+social media icons|Pass|Pass|Pass|Pass
