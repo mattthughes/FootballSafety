@@ -102,7 +102,7 @@ main {
     display: flex;
     flex-direction: column;
 }
-
+/* Background logo home page styles */
 #bg-logo {
     height: 450px;
     width: 100%;
@@ -370,7 +370,7 @@ main {
 #thank-you-message p {
     color: #fff;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 .back-button {
@@ -427,13 +427,13 @@ main {
     padding-right: 15px;
     padding-left: 20px;
 }
-
-@media screen and (min-width: 300px) {
+/* media query for screen sizes  320px and up */
+@media screen and (min-width: 320px) {
     #social-networks {
         padding-top: 5%;
     }
 }
-
+/* media query for screen sizes  500px and up*/
 @media screen and (min-width: 500px) {
     #thank-you-message p {
         padding-top: 70px;
@@ -451,7 +451,7 @@ main {
         font-size: 30px;
         padding-left: 40px;
     }
-
+    /* Nav styles */
     nav {
         display: flex;
         position: relative;
@@ -479,7 +479,7 @@ main {
     main {
         margin-top: 79px;
     }
-
+    /* Background image styles */
     #cover-text {
         width: 40%;
         height: 52px;
@@ -489,7 +489,7 @@ main {
     #about-text {
         width: 100%;
     }
-
+    /* Football safety styles */
     .safety-text {
         width: 100%;
         padding-top: 15px;
@@ -505,7 +505,7 @@ main {
     #safety-vid a {
         font-size: 10px;
     }
-
+    /* History styles */
     .history {
         width: 80%;
         padding-top: 20px;
@@ -515,7 +515,7 @@ main {
         font-size: 20px;
         padding-bottom: 20px;
     }
-
+    /* Timeline styles */
     .timeline {
         max-width: 1200px;
     }
@@ -565,7 +565,7 @@ main {
         padding: 10px;
         margin: 10px;
     }
-
+    /* Future updates styles */
     .future-updates {
         padding-top: 25px;
         width: 80%;
@@ -581,7 +581,7 @@ main {
         font-size: 20px;
         padding-bottom: 20px;
     }
-
+    /* contact styles */
     #contact {
         width: 100%;
     }
@@ -617,7 +617,7 @@ main {
     .join-button {
         font-size: 140%;
     }
-
+    /* Thank you page styles */
     #thank-you-message {
         padding: 175px;
         margin: 109px auto;
@@ -637,7 +637,7 @@ main {
         width: 50%;
         height: 40px;
     }
-
+    /* error styles */
     .error-404 {
         padding: 175px;
         margin: 109px auto;
@@ -647,12 +647,12 @@ main {
         font-size: 20px;
         padding-top: 80px;
     }
-
+    /* photos styles */
     #photos {
         column-count: 3;
         column-gap: 0;
     }
-
+    /*footer styles */
     #social-networks {
         font-size: 200%;
     }
@@ -664,6 +664,7 @@ main {
 
     /* For laptop devices */
     @media screen and (min-width: 900px) {
+        /* Hover effects styles */
         #menu a:hover {
             border: solid 2px white;
         }
@@ -692,11 +693,11 @@ main {
         header h1 {
             font-size: 40px;
         }
-
+        /* Nav styles */
         nav {
             font-size: 30px;
         }
-
+        /* Background styles */
         #bg-logo {
             height: 800px;
         }
@@ -705,11 +706,11 @@ main {
             font-size: 20px;
             padding-top: 120px;
         }
-
+        /* About us styles */
         #about-us {
             width: 100%;
         }
-
+        
         #about-us h3 {
             font-size: 25px;
         }
@@ -720,7 +721,7 @@ main {
             padding-left: 25px;
             padding-right: 25px;
         }
-
+        /* Football safety styles */
         #football-safety {
             width: 100%;
         }
@@ -751,7 +752,7 @@ main {
         #safety-vid a {
             font-size: 25px;
         }
-
+        /* History styles */
         .history {
             width: 100%;
             padding-top: 52px;
@@ -768,11 +769,11 @@ main {
             padding-left: 15px;
             padding-right: 20px;
         }
-
+        /* Timeline styles */
         .timeline-dimensions {
             width: 100%;
         }
-
+        /* Future updates section */ 
         .future-updates {
             width: 100%;
             padding-top: 20px;
@@ -788,7 +789,7 @@ main {
             padding-left: 15px;
             padding-right: 20px;
         }
-
+        /* Contact us styles */
         #contact-form {
             max-width: 1600px;
             margin: 90px;
@@ -822,7 +823,7 @@ main {
         .join-button {
             font-size: 150%;
         }
-
+        /* Thank you message styles */
         #thank-you-message h2 {
             font-size: 30px;
             padding-bottom: 20px;
@@ -837,7 +838,7 @@ main {
             font-size: 25px;
             height: 55px;
         }
-
+        /* Error styles */
         .error-404 h2 {
             font-size: 30px;
             padding-bottom: 20px;
@@ -846,7 +847,7 @@ main {
         .error-404 p {
             font-size: 25px;
         }
-
+        /* Footer styles */
         #social-networks {
             font-size: 300%;
         }
