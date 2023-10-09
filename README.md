@@ -169,6 +169,14 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 * This section will tell users about new key information about football safety in general informing them of what to look out for in the future of potential new events to look out for such as information about the munich air disaster.
 
+#### Mobile view 
+
+![Future updates mobile](docs/wireframes/future-mobile.png)
+
+#### Desktop view 
+
+![Future updates desktop](docs/wireframes/future-desktop.png)
+
 
 ### Gallery 
 
@@ -190,8 +198,8 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### Mobile View
 
-![Contact Mobile 1st section](docs/wireframes/contact-mobile1st.png)
-![Contact Mobile 2nd section](docs/wireframes/contact-mobile2nd.png)
+![Contact Mobile 1st section](docs/wireframes/contact-mobile-1st.png)
+![Contact Mobile 2nd section](docs/wireframes/contact-mobile-2nd.png)
 
 #### Desktop view
 
