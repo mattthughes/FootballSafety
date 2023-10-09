@@ -107,12 +107,12 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### Mobile view
 
-![Navigation mobile collapsed](docs/wireframes/navbarcollapsed.png)
-![Navigation mobile](docs/wireframes/navbar.png)
+![Navigation mobile collapsed](docs/wireframes/mobile-nav-collapsed.png)
+![Navigation mobile](docs/wireframes/mobile-nav.png)
 
 #### Desktop view
 
-![Navigation desktop view](docs/wireframes/navbardesktop.png)
+![Navigation desktop view](docs/wireframes/nav-desktop.png)
 
 ### About us
 
@@ -120,11 +120,11 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### Mobile view
 
-![About us mobile](docs/wireframes/aboutmobile.png)
+![About us mobile](docs/wireframes/about-mobile.png)
 
 #### Desktop View
 
-![About us desktop](docs/wireframes/aboutdesktop.png)
+![About us desktop](docs/wireframes/about-desktop.png)
 
 ### Videos
 
@@ -132,12 +132,25 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### Mobile View
 
-![Videos mobile](docs/wireframes/historynearlymobile.png)
-![Video element mobile](docs/wireframes/videoelementmobile.png)
+![Videos mobile](docs/wireframes/history-nearly-mobile.png)
+![Video element mobile](docs/wireframes/video-mobile.png)
 
 #### Desktop View
 
-![Video desktop view](docs/wireframes/videodesktop.png)
+![Video desktop view](docs/wireframes/history-nearly-desktop.png)
+
+### History
+
+- This showcases what the history page is about and why it is important to the project allowing users to view the disatorous events of the hillsborough disaster if they wish this part will allow users to make an inform decision if they wish to proceed further.
+ 
+  #### Mobile view 
+  
+  ![History Mobile section](docs/wireframes/mobile-history1st.png)
+
+  #### Desktop view
+
+  ![History section Desktop](docs/wireframes/history-desktop.png)
+
 
 ### History timeline
 
@@ -150,7 +163,12 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### Desktop view
 
-![History Desktop](docs/wireframes/desktoptimeline.png)
+![History Desktop](docs/wireframes/timeline-desktop.png)
+
+### Future updates
+
+* This section will tell users about new key information about football safety in general informing them of what to look out for in the future of potential new events to look out for such as information about the munich air disaster.
+
 
 ### Gallery 
 
@@ -178,7 +196,8 @@ This is how the project will look on a desktop device as shown on the mobile ver
 #### Desktop view
 
 ![Contact Desktop 1st section](docs/wireframes/contact-section1.png)
-![Contact Desktop 2nd section](docs/wireframes/contact-section2.png)
+![Contact Desktop 2nd section](docs/wireframes/contact-submit.png)
+
 
 ### Social Media icons
 
@@ -198,11 +217,11 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### Mobile view
 
-![Thank you mobile](docs/wireframes/thank-you-mobile.png)
+![Thank you mobile](docs/wireframes/thank-you-msg-mobile.png)
 
 #### Desktop view
 
-![Thank you desktop](docs/wireframes/thank-you-desktop.png)
+![Thank you desktop](docs/wireframes/thank-you-desktop-page.png)
 
 ### error 404 page
 
@@ -210,11 +229,11 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### Mobile view
 
-![error mobile](docs/wireframes/error-404-mobile.png)
+![error mobile](docs/wireframes/error-mobile.png)
 
 #### Desktop view
 
-![error desktop](docs/wireframes/error-404-desktop.png)
+![error desktop](docs/wireframes/error-desktop.png)
 
 ## Accesibility
 
