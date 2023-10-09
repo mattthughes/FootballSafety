@@ -649,7 +649,7 @@ main {
     }
     /* photos styles */
     #photos {
-        column-count: 3;
+        column-count: 2;
         column-gap: 0;
     }
     /*footer styles */
@@ -846,6 +846,10 @@ main {
 
         .error-404 p {
             font-size: 25px;
+        }
+
+        #photos {
+            column-count: 3;
         }
         /* Footer styles */
         #social-networks {
