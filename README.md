@@ -302,7 +302,8 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed button error by changing element to an anchor tag and removing the type attribute in order to follow better practices.
   ![Button Error](docs/wireframes/button-error.png)
 - Fixed gap between images by adding line height of 0%.
-- Fixed issue with gallery on tablet sizes by changing column count to 2 on tablet screen sizes and 3 for larger screen sizes
+- Fixed issue with gallery on tablet sizes by changing column count to 2 on tablet screen sizes and 3 for larger screen sizes.
+- Fixed issue with contact page not displaying correctly added margin-top value to fix issue.
 
 ### HTML Validation
 
@@ -326,7 +327,35 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ### Lighthouse testing
 
-#### After Optimisation
+#### Mobile After optimisation
+
+* This showcases each page, after optimisation showing the home, history and contact page for Mobile versions 
+  
+#### Index
+
+![Index Mobile lighthouse](docs/wireframes/index-mobile-lighthouse.png)
+
+#### History
+
+[History Mobile lighthouse](docs/wireframes/history-lighthouse-mobile.png)
+
+#### Gallery
+
+[Gallery Mobile lighthouse](docs/wireframes/gallery-mobile-lighthouse.png)
+
+#### Contact us
+
+[Contact Mobile lighthouse](docs/wireframes/contact-mobile-lighthouse.png)
+
+#### Thank you
+
+[Thank you Mobile lighthouse](docs/wireframes/thank-you-lighthouse-mobile.png)
+
+#### Error 404
+
+[Error 404 Mobile lighthouse](docs/wireframes/error-404-mobile-lighthouse.png)
+
+#### Desktop After Optimisation 
 
 - This showcases each page, after optimisation showing the home, history and contact page for desktop versions.
 
