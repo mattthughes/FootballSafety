@@ -306,6 +306,36 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed issue with contact page not displaying correctly added margin-top value to fix issue.
 - Fixed empty label error by adding in another span class for the label element for text.
 
+## Deployment 
+
+### How to deploy 
+
+The site is deployed using GitHub Pages - [Football Safety](https://github.com/mattthughes/FootballSafety)
+
+To deploy the site using GitHub Pages follow the following steps:
+
+1. Login or signup to GitHub.
+2. Go to the repository for this project, [mattthughes/FootballSafety](https://github.com/mattthughes/FootballSafety)
+3. Click the settings button.
+4. Select pages in the left hand navigation menu.
+5. From the source dropdown select main branch changing this from root to main and then press save.
+6. After this step the site has now been deployed, this can take a few minutes for the site to become avaliable to view, this will allow you to see your changes straight away.
+
+### Local Development 
+
+#### How to Fork
+
+1. Log in or sign up to GitHub.
+2. Go to the repository for this project, [mattthughes/FootballSafety](https://github.com/mattthughes/FootballSafety)
+3. Click the Fork button in the top right corner.
+
+#### How to open in code anywhere
+
+1. Log in or sign up to GitHub.
+2. Go to the repository for this project, [mattthughes/FootballSafety](https://github.com/mattthughes/FootballSafety)
+3. Click on the code button and from here you can copy the title of the workspace.
+4. Next open code anywhere and then click new workspace paste the title and then click create.
+
 ### HTML Validation
 
 #### Index
@@ -318,7 +348,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### Gallery
 
-![History Validation](docs/wireframes/history-validator.png)
+![History Validation](docs/wireframes/gallery-validator.png)
 
 #### Contact us
 
@@ -557,3 +587,5 @@ This is how the project will look on a desktop device as shown on the mobile ver
 |      Social Media icons      |                    Icon to open in new tab                     |     Clicked icons     |               Opened in new tab               |     Pass      |
 | Social Media (Hover effect)  |       White circular border to appear when hovered over        |   Hovered over icon   |           Hover and styles appeared           |     Pass      |
 |  Back button(Hover effect)   |                 button to change color to red                  |  Button hovered over  | button style changed to red when hovered over |     Pass      |
+
+
