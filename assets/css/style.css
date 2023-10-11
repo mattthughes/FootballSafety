@@ -68,6 +68,10 @@ header label {
     margin-bottom: 1em;
 }
 
+.visually-hidden {
+    display: none;
+}
+
 /* Nav bar styles */
 
 nav {

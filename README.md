@@ -304,6 +304,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed gap between images by adding line height of 0%.
 - Fixed issue with gallery on tablet sizes by changing column count to 2 on tablet screen sizes and 3 for larger screen sizes.
 - Fixed issue with contact page not displaying correctly added margin-top value to fix issue.
+- Fixed empty label error by adding in another span class for the label element for text.
 
 ### HTML Validation
 
