@@ -51,7 +51,7 @@ The inspiration behind this project came from researching about football disaste
 
 ## User Stories
 
-[Live Site URL:](https://mattthughes.github.io/FootballSafety/)
+[Live Site URL:https://mattthughes.github.io/FootballSafety/)](https://mattthughes.github.io/FootballSafety/)
 
 ## User Stories
 
@@ -379,6 +379,22 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![Thank you page Lighthouse testing](docs/wireframes/thank-you-page-lighthouse.png)
 
+### Wave report
+
+#### Index
+
+#### History
+
+#### Gallery
+
+#### Contact us
+
+#### Thank you
+
+#### Error 404
+
+
+
 ### Manual Testing
 
 #### Aims
@@ -431,7 +447,7 @@ Navigation bar icon|when icon clicked display page names underneath title|clicke
 Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
 Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
 Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
-Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked direct to contact page|Clicked Contact page|Contact page loaded|Pass
 Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
 Video |Video not to autoplay and to give the user complete control over video|Loaded page and clicked play|Video did not autoplay, user had control|Pass
 Video link|Link to open in new tab|Clicked Video link|Link opened in new tab|Pass
@@ -448,7 +464,7 @@ Navigation bar icon|when icon clicked display page names underneath title|clicke
 Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
 Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
 Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
-Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked direct to contact page|Clicked Contact page|Contact page loaded|Pass
 Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
 Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
 Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
@@ -462,7 +478,7 @@ Navigation bar icon|when icon clicked display page names underneath title|clicke
 Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
 Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
 Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
-Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked direct to contact page|Clicked Contact page|Contact page loaded|Pass
 Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
 Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
 Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
@@ -476,7 +492,7 @@ Navigation bar icon|when icon clicked display page names underneath title|clicke
 Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
 Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
 Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
-Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked direct to contact page|Clicked Contact page|Contact page loaded|Pass
 Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
 Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
 Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
@@ -499,10 +515,11 @@ Navigation bar icon|when icon clicked display page names underneath title|clicke
 Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
 Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
 Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
-Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked direct to contact page|Clicked Contact page|Contact page loaded|Pass
 Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
 Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
 Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
+Back button(Hover effect)|button to change color to red|Button hovered over|button style changed to red when hovered over|Pass
 
 `Error 404 page`
 
@@ -513,10 +530,11 @@ Navigation bar icon|when icon clicked display page names underneath title|clicke
 Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
 Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
 Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
-Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked direct to contact page|Clicked Contact page|Contact page loaded|Pass
 Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
 Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
 Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
+Back button(Hover effect)|button to change color to red|Button hovered over|button style changed to red when hovered over|Pass
 
 
 
