@@ -142,15 +142,14 @@ This is how the project will look on a desktop device as shown on the mobile ver
 ### History
 
 - This showcases what the history page is about and why it is important to the project allowing users to view the disatorous events of the hillsborough disaster if they wish this part will allow users to make an inform decision if they wish to proceed further.
- 
-  #### Mobile view 
-  
+
+  #### Mobile view
+
   ![History Mobile section](docs/wireframes/mobile-history1st.png)
 
   #### Desktop view
 
   ![History section Desktop](docs/wireframes/history-desktop.png)
-
 
 ### History timeline
 
@@ -167,18 +166,17 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ### Future updates
 
-* This section will tell users about new key information about football safety in general informing them of what to look out for in the future of potential new events to look out for such as information about the munich air disaster.
+- This section will tell users about new key information about football safety in general informing them of what to look out for in the future of potential new events to look out for such as information about the munich air disaster.
 
-#### Mobile view 
+#### Mobile view
 
 ![Future updates mobile](docs/wireframes/future-mobile.png)
 
-#### Desktop view 
+#### Desktop view
 
 ![Future updates desktop](docs/wireframes/future-desktop.png)
 
-
-### Gallery 
+### Gallery
 
 - This section will showcase everything we are trying to avoid showing the aftermath of these disasters, showing events from Hillsborough and the bradford city fire along with the crowd trouble during the champions league final referenced on the home page this page will be informative and allow users to understand the impact these events have had on the football world. (See below for the mobile and desktop view)
 
@@ -205,7 +203,6 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![Contact Desktop 1st section](docs/wireframes/contact-section1.png)
 ![Contact Desktop 2nd section](docs/wireframes/contact-submit.png)
-
 
 ### Social Media icons
 
@@ -303,9 +300,9 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - Fixed timeline error the timeline on tablets mobiles and desktop devices was working but when checking the responsiveness of the website the circles on the timeline were not staying consistent, The issue for this was the large padding left values with different media querys in order to fix this I adjusted these values and aligned the timeline containers to the center to make sure they were consistent and responsive to fix the circles I increased the left property to 97.5% and this fixed how the circles were aligned on the timeline for larger devices such as tablets and larger desktops. I also changed the width for both left and right containers for tablets to 50% and to 100% for the desktop devices.
 - Fixed issue regarding contact page, thank you page, error page by adding a padding-top value for social media icons making sure the layout was staying consitent and was responsive on multiple screen sizes.
 - Fixed button error by changing element to an anchor tag and removing the type attribute in order to follow better practices.
-![Button Error](docs/wireframes/button-error.png)
+  ![Button Error](docs/wireframes/button-error.png)
 - Fixed gap between images by adding line height of 0%.
-- Fixed issue with gallery on tablet sizes by changing column count to 2 on tablet screen sizes and 3 for larger screen sizes 
+- Fixed issue with gallery on tablet sizes by changing column count to 2 on tablet screen sizes and 3 for larger screen sizes
 
 ### HTML Validation
 
@@ -323,7 +320,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ### CSS Validation
 
-* I have completed all the nessary checks making sure all the css code written has no errors and follows best practices. 
+- I have completed all the nessary checks making sure all the css code written has no errors and follows best practices.
 
 ![Css Validation](docs/wireframes/css-validator.png)
 
@@ -331,7 +328,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### After Optimisation
 
-* This showcases each page, after optimisation showing the home, history and contact page for desktop versions.
+- This showcases each page, after optimisation showing the home, history and contact page for desktop versions.
 
 #### Home
 
@@ -341,7 +338,7 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![History Lighthouse testing](docs/wireframes/history-lighthouse.png)
 
-#### Gallery 
+#### Gallery
 
 ![Gallery Lighthouse testing](docs/wireframes/gallery-lighthouse.png)
 
@@ -353,44 +350,42 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 ![Thank you page Lighthouse testing](docs/wireframes/thank-you-page-lighthouse.png)
 
-
-### Manual Testing 
+### Manual Testing
 
 #### Aims
 
-* The aim is to make sure the website is responsive for all screen sizes without needing to rotate the screen.
-* Making sure all elements are consistent and not overlapping or not on the screen in general.
-* Each page and device size has the same style making sure font is consistent and isnt different from page to page. 
-* All videos links and buttons work as intended
-* Make sure error page is deployed by github rather than githubs own error page.
-* When submitting form the form submission takes the user to a thank you page keeping the same design as the rest of the website 
-
+- The aim is to make sure the website is responsive for all screen sizes without needing to rotate the screen.
+- Making sure all elements are consistent and not overlapping or not on the screen in general.
+- Each page and device size has the same style making sure font is consistent and isnt different from page to page.
+- All videos links and buttons work as intended
+- Make sure error page is deployed by github rather than githubs own error page.
+- When submitting form the form submission takes the user to a thank you page keeping the same design as the rest of the website
 
 #### Testing steps
 
-* I will test the responsiveness for all screen sizes by firstly right clicking on the website and using the inspect tool which will open the google chrome deveopler tools
-* Following this I click on the laptop in the developer tools and change the aspect ratio to 280px the lowest screen size and begin adjusting the screen size for all pages making sure all elements are displaying correctly on all screen sizes.
-* I will be testing all elements such as links making sure they open in new tabs for social media icons and video links, buttons making sure they return to the right pages and there is no errors
-* I will be making sure the video doesn't autoplay and is muted to start with to follow best practices.
-* I will make sure github will be finding the error page I created for the website compared to the usual github error page that is usually displayed.
-* Doing the above steps will make sure each element is responive and is working as intended.
+- I will test the responsiveness for all screen sizes by firstly right clicking on the website and using the inspect tool which will open the google chrome deveopler tools
+- Following this I click on the laptop in the developer tools and change the aspect ratio to 280px the lowest screen size and begin adjusting the screen size for all pages making sure all elements are displaying correctly on all screen sizes.
+- I will be testing all elements such as links making sure they open in new tabs for social media icons and video links, buttons making sure they return to the right pages and there is no errors
+- I will be making sure the video doesn't autoplay and is muted to start with to follow best practices.
+- I will make sure github will be finding the error page I created for the website compared to the usual github error page that is usually displayed.
+- Doing the above steps will make sure each element is responive and is working as intended.
 
-### Testing Results 
+### Testing Results
 
-**Responsiveness**|**Index**|**About**|**Gallery**|**Contact us**
-:-----:|:-----:|:-----:|:-----:|:-----:
-Nav bar|Pass|Pass|Pass|Pass
-Background image|Pass|N/A|N/A|N/A
-Cover text|Pass|N/A|N/A|N/A
-About us|Pass|N/A|N/A|N/A
-History nearly section|Pass|N/A|N/A|N/A
-History nearly video|Pass|N/A|N/A|N/A
-History nearly link|Pass|N/A|N/A|N/A
-History text|N/A|Pass|N/A|N/A
-History timeline|N/A|Pass|N/A|N/A
-Future updates|N/A|Pass|N/A|N/A
-Contact form |N/A|N/A|N/A|Pass
-Gallery|N/A|N/A|Pass|N/A
-Contact form button|N/A|N/A|N/A|Pass
-Footer|Pass|Pass|Pass|Pass
-Social media icons|Pass|Pass|Pass|Pass
+|   **Responsiveness**   | **Index** | **About** | **Gallery** | **Contact us** |
+| :--------------------: | :-------: | :-------: | :---------: | :------------: |
+|        Nav bar         |   Pass    |   Pass    |    Pass     |      Pass      |
+|    Background image    |   Pass    |    N/A    |     N/A     |      N/A       |
+|       Cover text       |   Pass    |    N/A    |     N/A     |      N/A       |
+|        About us        |   Pass    |    N/A    |     N/A     |      N/A       |
+| History nearly section |   Pass    |    N/A    |     N/A     |      N/A       |
+|  History nearly video  |   Pass    |    N/A    |     N/A     |      N/A       |
+|  History nearly link   |   Pass    |    N/A    |     N/A     |      N/A       |
+|      History text      |    N/A    |   Pass    |     N/A     |      N/A       |
+|    History timeline    |    N/A    |   Pass    |     N/A     |      N/A       |
+|     Future updates     |    N/A    |   Pass    |     N/A     |      N/A       |
+|      Contact form      |    N/A    |    N/A    |     N/A     |      Pass      |
+|        Gallery         |    N/A    |    N/A    |    Pass     |      N/A       |
+|  Contact form button   |    N/A    |    N/A    |     N/A     |      Pass      |
+|         Footer         |   Pass    |   Pass    |    Pass     |      Pass      |
+|   Social media icons   |   Pass    |   Pass    |    Pass     |      Pass      |
