@@ -337,23 +337,23 @@ This is how the project will look on a desktop device as shown on the mobile ver
 
 #### History
 
-[History Mobile lighthouse](docs/wireframes/history-lighthouse-mobile.png)
+![History Mobile lighthouse](docs/wireframes/history-lighthouse-mobile.png)
 
 #### Gallery
 
-[Gallery Mobile lighthouse](docs/wireframes/gallery-mobile-lighthouse.png)
+![Gallery Mobile lighthouse](docs/wireframes/gallery-mobile-lighthouse.png)
 
 #### Contact us
 
-[Contact Mobile lighthouse](docs/wireframes/contact-mobile-lighthouse.png)
+![Contact Mobile lighthouse](docs/wireframes/contact-mobile-lighthouse.png)
 
 #### Thank you
 
-[Thank you Mobile lighthouse](docs/wireframes/thank-you-lighthouse-mobile.png)
+![Thank you Mobile lighthouse](docs/wireframes/thank-you-lighthouse-mobile.png)
 
 #### Error 404
 
-[Error 404 Mobile lighthouse](docs/wireframes/error-404-mobile-lighthouse.png)
+![Error 404 Mobile lighthouse](docs/wireframes/error-404-mobile-lighthouse.png)
 
 #### Desktop After Optimisation 
 
@@ -418,3 +418,105 @@ This is how the project will look on a desktop device as shown on the mobile ver
 |  Contact form button   |    N/A    |    N/A    |     N/A     |      Pass      |
 |         Footer         |   Pass    |   Pass    |    Pass     |      Pass      |
 |   Social media icons   |   Pass    |   Pass    |    Pass     |      Pass      |
+
+
+### Elements Testing
+
+`Home Page`
+
+**Element**|**Expected outcome**|**Testing Performed**|**Result**|**Pass/Fail**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Site title|Link directly back to home page|Clicked Home title|Home page loaded|Pass
+Navigation bar icon|when icon clicked display page names underneath title|clicked nav icon|page names appear|Pass
+Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
+Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
+Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
+Video |Video not to autoplay and to give the user complete control over video|Loaded page and clicked play|Video did not autoplay, user had control|Pass
+Video link|Link to open in new tab|Clicked Video link|Link opened in new tab|Pass
+Video link (Hover effect)|Link to have red border when hovered over|Hovered over link|Red border appeared |Pass
+Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
+Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
+
+`History`
+
+**Element**|**Expected outcome**|**Testing performed**|**Result**|**Pass/Fail**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Site title|Link directly back to home page|Clicked Home title|Home page loaded|Pass
+Navigation bar icon|when icon clicked display page names underneath title|clicked nav icon|page names appear|Pass
+Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
+Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
+Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
+Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
+Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
+
+`Gallery page`
+
+**Element**|**Expected outcome**|**History page loaded**|**Result**|**Pass/Fail**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Site title|Link directly back to home page|Clicked Home title|Home page loaded|Pass
+Navigation bar icon|when icon clicked display page names underneath title|clicked nav icon|page names appear|Pass
+Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
+Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
+Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
+Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
+Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
+
+`Contact us page`
+
+**Element**|**Expected outcome**|**Testing performed**|**Result**|**Pass/Fail**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Site title|Link directly back to home page|Clicked Home title|Home page loaded|Pass
+Navigation bar icon|when icon clicked display page names underneath title|clicked Nav icon|page names appear|Pass
+Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
+Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
+Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
+Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
+Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
+Contact page text input |Allow the user to type in text|Clicked text box, began typing |Text appeared in text box|Pass
+Text input required|When submitting form without filling in this will be flagged as required |submitted form without filling in text box|Flagged textbox as required|Pass
+Email Input |When submitting the form email must be filled in and requires an @ symbol|submitted form without filling in text box|Flagged email as required|Pass
+Emain Input without @ symbol|Form requires email to have an @ symbol form to flag this as required|submitted form without @ symbol|Flagged email as required and needing @ symbol|Pass
+Email Input with @ symbol|Email not to be flagged if containing @ symbol and filled in|filled in input with @ symbol|Form was submitted succesfully|Pass
+Radio buttons not selected|Radio buttons to be flagged as required|Radio button not selected|Radio buttons was flagged as required|Pass
+Radio buttons selected|Radio buttons to be selected|Radio button selected|Radio button was selected and form was submitted|Pass
+Submit button|button to submit form, load thank you page if all required elements completed|Submit button clicked|Form submitted, thank you page loaded all required elements completed|Pass
+Submit button(Hover effect)|button to change color to red|Button hovered over|button style changed to red when hovered over|Pass
+
+`Thank you page` 
+
+**Element**|**Expected outcome**|**Testing performed**|**Result**|**Pass/Fail**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Site title|Link directly back to home page|Clicked Home title|Home page loaded|Pass
+Navigation bar icon|when icon clicked display page names underneath title|clicked nav icon|page names appear|Pass
+Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
+Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
+Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
+Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
+Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
+
+`Error 404 page`
+
+**Element**|**Expected outcome**|**Testing performed**|**Result**|**Pass/Fail**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Site title|Link directly back to home page|Clicked Home title|Home page loaded|Pass
+Navigation bar icon|when icon clicked display page names underneath title|clicked nav icon|page names appear|Pass
+Navigation bar (Home)|When Home page  clicked direct to Home clicked|Clicked Home page|Home page loaded|Pass
+Navigation bar (History)|When History page clicked direct to History page|Clicked History page|History page loaded|Pass
+Navigation bar (Gallery)|When Gallery Page clicked direct to Gallery page|Clicked Gallery page|Gallery page loaded|Pass
+Navigation bar (Contact us)|When Contact page clicked dirct to contact page|Clicked Contact page|Contact page loaded|Pass
+Navigation bar(Hover effect)|When pages hovered over white border to appear over page names|Hovered over pages|White border appears|Pass
+Social Media icons|Icon to open in new tab|Clicked icons|Opened in new tab|Pass
+Social Media (Hover effect)|White circular border to appear when hovered over|Hovered over icon|Hover and styles appeared|Pass
+
+
+
