@@ -24,11 +24,12 @@ The inspiration behind this project came from researching about football disaste
   - Accessibilty decisions
 
   - Technologies used
+
     - Languages used
     - Frameworks & Tools
-  
+
   - Depoloyment
-    - Local Deployment 
+    - Local Deployment
 
 - Testing
 
@@ -45,7 +46,7 @@ The inspiration behind this project came from researching about football disaste
     - Error 404 page testing
   - Manual testing
     - Testing Results
-    - Element Testing 
+    - Element Testing
 
 - Credits
   - Images used
@@ -53,7 +54,6 @@ The inspiration behind this project came from researching about football disaste
   - Code used
   - Content
   - Acknowledgments
-
 
 [Live Site URL:https://mattthughes.github.io/FootballSafety/)](https://mattthughes.github.io/FootballSafety/)
 
@@ -281,9 +281,9 @@ This is how the project will look on a desktop device as shown on the mobile ver
 - [Am I Responsive](https://ui.dev/amiresponsive)
 - [FLighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
 
-## Deployment 
+## Deployment
 
-### How to deploy 
+### How to deploy
 
 The site is deployed using GitHub Pages - [Football Safety](https://github.com/mattthughes/FootballSafety)
 
@@ -296,7 +296,7 @@ To deploy the site using GitHub Pages follow the following steps:
 5. From the source dropdown select main branch changing this from root to main and then press save.
 6. After this step the site has now been deployed, this can take a few minutes for the site to become avaliable to view, this will allow you to see your changes straight away.
 
-### Local Development 
+### Local Development
 
 #### How to Fork
 
@@ -310,7 +310,6 @@ To deploy the site using GitHub Pages follow the following steps:
 2. Go to the repository for this project, [mattthughes/FootballSafety](https://github.com/mattthughes/FootballSafety)
 3. Click on the code button and from here you can copy the title of the workspace.
 4. Next open code anywhere and then click new workspace paste the title and then click create.
-
 
 # Testing
 
@@ -343,12 +342,11 @@ To deploy the site using GitHub Pages follow the following steps:
 - Fixed error messages on error page html was deleted and missing went back and inserted html to fix issue.
 - Fixed issue with vertical timeline bar when changing the screen sizes checking the responsiveness the vertical bar would not be consistent and would rise above the circles on the timeline in order to fix this issue I changed the margin top value from a percentage to pixels which fixed this issue and kept the design consistent and how I planned for tablets and desktop versions of the website.
 - Fixed issue with thank you page on mobile Iphone 12 devices there was alot of extra space on the web page adding extra padding values to fix this.
-  
+- Fixed error page display on mobile Iphone 12 devices by adding extra padding and margin to remove extra space below social media icons.
 
 ### Known bugs
 
-* Timeline circles appear to move on the timeline slightly where some can appear slightly out of place on the timeline after changing many values a fix has not yet been found.
-
+- Timeline circles appear to move on the timeline slightly where some can appear slightly out of place on the timeline after changing many values a fix has not yet been found.
 
 ### HTML Validation
 
@@ -418,23 +416,27 @@ To deploy the site using GitHub Pages follow the following steps:
 
 #### Home
 
-![Home Lighthouse testing](docs/wireframes/home-lighthouse.png)
+!Home Lighthouse testing](docs/wireframees/index-desktop-lighthouse.png)
 
 #### History
 
-![History Lighthouse testing](docs/wireframes/history-lighthouse.png)
+![History Lighthouse testing](docs/wireframes/history-lighthouse-desktop.png)
 
 #### Gallery
 
-![Gallery Lighthouse testing](docs/wireframes/gallery-lighthouse.png)
+![Gallery Lighthouse testing](docs/wireframes/gallery-desktop-lighthouse.png)
 
 #### Contact-Page
 
-![Contact Page Lighthouse testing](docs/wireframes/contact-lighthouse.png)
+![Contact Page Lighthouse testing](docs/wireframes/contact-desktop-lighthouse.png)
 
 #### Thank you page
 
-![Thank you page Lighthouse testing](docs/wireframes/thank-you-page-lighthouse.png)
+![Thank you page Lighthouse testing](docs/wireframes/thank-you-desktop-lighthouse.png)
+
+#### Error 404 page
+
+![Error 404 page Lighthouse testing](docs/wireframes/error-desktop-lighthouse.png)
 
 ### Wave report
 
@@ -602,8 +604,7 @@ To deploy the site using GitHub Pages follow the following steps:
 | Social Media (Hover effect)  |       White circular border to appear when hovered over        |   Hovered over icon   |           Hover and styles appeared           |     Pass      |
 |  Back button(Hover effect)   |                 button to change color to red                  |  Button hovered over  | button style changed to red when hovered over |     Pass      |
 
-
-## Credits 
+## Credits
 
 ### Media
 
@@ -620,24 +621,24 @@ To deploy the site using GitHub Pages follow the following steps:
 - Champions league final crowd trouble image [Champions league final crowd trouble](https://www.skysports.com/football/news/12040/12624042/champions-league-final-chaos-ticketless-liverpool-fans-blamed-by-french-sports-minister-for-initial-crowd-issues)
 - Police during the crowd trouble image [Police during the crowd trouble](https://www.skysports.com/football/news/12040/12624042/champions-league-final-chaos-ticketless-liverpool-fans-blamed-by-french-sports-minister-for-initial-crowd-issues)
 
-
-#### Video 
+#### Video
 
 - Video of the aftermath of the champions league final crowd trouble[Champions league crowd trouble video](https://www.youtube.com/watch?v=QD0UB0xCcB8&list=PPSV)
-  
-#### Code 
 
-* The social icons were heavily inspired by the Love Running walkthrough and was customised to my projects needs
-* The contact section basics were heavily inspired by the Love Running walkthrough and was customised to my projects needs
-- The Timeline for tablets was inspired by WS schools where to fix errors I referenced the timeline they created to ensure a responsive design for all screen sizes [Timeline example reference](https://www.w3schools.com/howto/howto_css_timeline.asp)
-* The Gallery section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs
+#### Code
+
+- The social icons were heavily inspired by the Love Running walkthrough and was customised to my projects needs
+- The contact section basics were heavily inspired by the Love Running walkthrough and was customised to my projects needs
+
+* The Timeline for tablets was inspired by WS schools where to fix errors I referenced the timeline they created to ensure a responsive design for all screen sizes [Timeline example reference](https://www.w3schools.com/howto/howto_css_timeline.asp)
+
+- The Gallery section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs
 
 #### Content
 
 - The Hillsborough timeline for the timeline page was taken from bbc sport showcasing how the events unfolded. [Hillsborough timeline](https://www.bbc.co.uk/news/uk-england-merseyside-47697569)
 
-
 ## Acknowledgements
 
-* I would like to firstly thank my mentor Graham who has provided feedback and guidance being very supportive during development
-* I would also like to Thank the code institute slack community especially the peer code review channel for all the people that took there time to review my project and provide me with some feedback this helped alot during development.
+- I would like to firstly thank my mentor Graham who has provided feedback and guidance being very supportive during development
+- I would also like to Thank the code institute slack community especially the peer code review channel for all the people that took there time to review my project and provide me with some feedback this helped alot during development.
