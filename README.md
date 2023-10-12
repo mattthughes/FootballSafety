@@ -341,6 +341,7 @@ To deploy the site using GitHub Pages follow the following steps:
 - Fixed issue with gallery on tablet sizes by changing column count to 2 on tablet screen sizes and 3 for larger screen sizes.
 - Fixed issue with contact page not displaying correctly added margin-top value to fix issue.
 - Fixed empty label error by adding in another span class for the label element for text.
+- Fixed error messages on error page html was deleted and missing went back and inserted html to fix issue 
 
 
 ### HTML Validation
@@ -596,3 +597,41 @@ To deploy the site using GitHub Pages follow the following steps:
 |  Back button(Hover effect)   |                 button to change color to red                  |  Button hovered over  | button style changed to red when hovered over |     Pass      |
 
 
+## Credits 
+
+### Media
+
+#### Imagery
+
+- Image of the fallen 97 [Fallen 97](https://www.bbc.co.uk/news/uk-england-merseyside-47697569)
+- Pitch Memorial Image [Pitch Memorial](https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-remember-96-27-years-11188597)
+- Fans and Footballers on the pitch [Fans and footballers on the pitch](https://www.huffingtonpost.co.uk/2014/04/14/hillsborough-disaster-motd-report_n_5145544.html)
+- Background image Hillsborough tribute [Hillsborough tribute](https://www.theguardian.com/football/2023/apr/15/fight-to-end-hillsborough-abuse-tragedy-chanting-liverpool)
+- People trying to escape the disaster image [People trying to escape the disaster](https://www.independent.co.uk/news/uk/home-news/hillsborough-police-paid-money-found-among-the-dead-into-force-s-coffers-8793702.html)
+- People standing on the pitch some trying to help others while some don't know how to react image[Fans on the pitch trying to help others](https://www.huffingtonpost.co.uk/2014/04/14/hillsborough-disaster-motd-report_n_5145544.html)
+- Fans not knowing how to react helping others image [Fans helping carry a stretcher](https://www.dailymail.co.uk/news/article-7736991/Sports-writer-JEFF-POWELL-Hillsborough-recalls-horror-days-unfolding-events.html)
+- Bradford city stadium fire image [Bradford city stadium fire](https://www.theguardian.com/football/2015/apr/15/bradford-fire-stafford-heginbotham-martin-fletcher)
+- Champions league final crowd trouble image [Champions league final crowd trouble](https://www.skysports.com/football/news/12040/12624042/champions-league-final-chaos-ticketless-liverpool-fans-blamed-by-french-sports-minister-for-initial-crowd-issues)
+- Police during the crowd trouble image [Police during the crowd trouble](https://www.skysports.com/football/news/12040/12624042/champions-league-final-chaos-ticketless-liverpool-fans-blamed-by-french-sports-minister-for-initial-crowd-issues)
+
+
+#### Video 
+
+- Video of the aftermath of the champions league final crowd trouble[Champions league crowd trouble video](https://www.youtube.com/watch?v=QD0UB0xCcB8&list=PPSV)
+  
+#### Code 
+
+* The social icons were heavily inspired by the Love Running walkthrough and was customised to my projects needs
+* The contact section basics were heavily inspired by the Love Running walkthrough and was customised to my projects needs
+- The Timeline for tablets was inspired by WS schools where to fix errors I referenced the timeline they created to ensure a responsive design for all screen sizes [Timeline example reference](https://www.w3schools.com/howto/howto_css_timeline.asp)
+* The Gallery section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs
+
+#### Content
+
+- The Hillsborough timeline for the timeline page was taken from bbc sport showcasing how the events unfolded. [Hillsborough timeline](https://www.bbc.co.uk/news/uk-england-merseyside-47697569)
+
+
+## Acknowledgements
+
+* I would like to firstly thank my mentor Graham who has provided feedback and guidance being very supportive during development
+* I would also like to Thank the code institue slack community especially the peer code review channel for all the people that took there time to review my project and provide me with some feedback this helped alot during development.
