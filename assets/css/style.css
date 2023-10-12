@@ -532,11 +532,6 @@ main {
         padding-bottom: 20px;
     }
 
-    .history p {
-        padding-left: 20px;
-        padding-right: 20px;
-    }
-
     /* Timeline styles */
     .timeline {
         max-width: 1200px;
