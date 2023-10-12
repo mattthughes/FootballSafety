@@ -201,8 +201,7 @@ main {
 
 .history-text p {
     padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+
 }
 
 .history hr {
@@ -293,8 +292,7 @@ main {
 
 .future-text p {
     padding-bottom: 15px;
-    padding-left: 20px;
-    padding-right: 20px;
+
 }
 
 .future-text hr {
@@ -534,6 +532,11 @@ main {
         padding-bottom: 20px;
     }
 
+    .history p {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
     /* Timeline styles */
     .timeline {
         max-width: 1200px;
@@ -596,6 +599,7 @@ main {
         padding-bottom: 20px;
         padding-top: 20px;
     }
+
 
     .future-text {
         font-size: 20px;
@@ -802,6 +806,11 @@ main {
             padding-right: 20px;
         }
 
+        .history p {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
         /* Timeline styles */
         .timeline-dimensions {
             width: 100%;
@@ -821,6 +830,11 @@ main {
         .future-text {
             font-size: 20px;
             padding-left: 15px;
+            padding-right: 20px;
+        }
+
+        .future-text p {
+            padding-left: 20px;
             padding-right: 20px;
         }
 
@@ -869,6 +883,8 @@ main {
         #thank-you-message p {
             font-size: 25px;
         }
+
+
 
         .back-button {
             width: 30%;
