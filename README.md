@@ -8,7 +8,7 @@ Football Safety is an online website designed to inform football fans of footbal
 
 The inspiration behind this project came from researching about football disasters, how this effected the area whether it was the Bradford fire or the Hillsborough disaster each event impacted the the region and changed football forever.
 
-# CONTENTS
+## CONTENTS
 
 - User Stories
 
@@ -54,7 +54,6 @@ The inspiration behind this project came from researching about football disaste
   - Content
   - Acknowledgments
 
-## User Stories
 
 [Live Site URL:https://mattthughes.github.io/FootballSafety/)](https://mattthughes.github.io/FootballSafety/)
 
@@ -341,7 +340,13 @@ To deploy the site using GitHub Pages follow the following steps:
 - Fixed issue with gallery on tablet sizes by changing column count to 2 on tablet screen sizes and 3 for larger screen sizes.
 - Fixed issue with contact page not displaying correctly added margin-top value to fix issue.
 - Fixed empty label error by adding in another span class for the label element for text.
-- Fixed error messages on error page html was deleted and missing went back and inserted html to fix issue 
+- Fixed error messages on error page html was deleted and missing went back and inserted html to fix issue.
+- Fixed issue with vertical timeline bar when changing the screen sizes checking the responsiveness the vertical bar would not be consistent and would rise above the circles on the timeline in order to fix this issue I changed the margin top value from a percentage to pixels which fixed this issue and kept the design consistent and how I planned for tablets and desktop versions of the website.
+  
+
+### Known bugs
+
+* Timeline circles appear to move on the timeline slightly where some can appear slightly out of place on the timeline after changing many values a fix has not yet been found.
 
 
 ### HTML Validation
