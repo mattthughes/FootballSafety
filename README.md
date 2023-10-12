@@ -1,6 +1,6 @@
 # Football Safety
 
-![Responsiveness logo](docs/wireframes/responsivetest.png)
+![Responsiveness logo](docs/wireframes/Responsiveness-footballsafety.png)
 
 ## Project Introduction:
 
@@ -634,4 +634,4 @@ To deploy the site using GitHub Pages follow the following steps:
 ## Acknowledgements
 
 * I would like to firstly thank my mentor Graham who has provided feedback and guidance being very supportive during development
-* I would also like to Thank the code institue slack community especially the peer code review channel for all the people that took there time to review my project and provide me with some feedback this helped alot during development.
+* I would also like to Thank the code institute slack community especially the peer code review channel for all the people that took there time to review my project and provide me with some feedback this helped alot during development.
