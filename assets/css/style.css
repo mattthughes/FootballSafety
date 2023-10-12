@@ -447,6 +447,16 @@ main {
         padding-top: 135px;
         padding-bottom: 110px;
     }
+
+    .error-404 h2 {
+        padding-top: 90px;
+        margin-bottom: 60px;
+    }
+
+    .error-404 p {
+        padding-bottom: 70px;
+        margin-bottom: 50px;
+    }
 }
 
 /* media query for screen sizes  500px and up*/

@@ -342,6 +342,7 @@ To deploy the site using GitHub Pages follow the following steps:
 - Fixed empty label error by adding in another span class for the label element for text.
 - Fixed error messages on error page html was deleted and missing went back and inserted html to fix issue.
 - Fixed issue with vertical timeline bar when changing the screen sizes checking the responsiveness the vertical bar would not be consistent and would rise above the circles on the timeline in order to fix this issue I changed the margin top value from a percentage to pixels which fixed this issue and kept the design consistent and how I planned for tablets and desktop versions of the website.
+- Fixed issue with thank you page on mobile Iphone 12 devices there was alot of extra space on the web page adding extra padding values to fix this.
   
 
 ### Known bugs
