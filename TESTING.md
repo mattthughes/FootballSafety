@@ -2,26 +2,50 @@
 
 ![Responsiveness logo](docs/wireframes/responsiveness-footballsafety.png)
 
-## CONTENTS
-
-- Testing
-
-  - [W3C HTML validator](#html-validation)
-  - [W3C CSS validator](#css-validationcss)
-  - [Solved bugs and fixes](#solved-bugs)
+## Contents
+ 
+- [Football Safety Testing](#football-safety-testing)
+  - [Contents](#contents)
+  - [Testing Content](#testing-content)
+    - [HTML Validation](#html-validation)
+      - [Index Validation](#index-validation)
+      - [History Validation](#history-validation)
+      - [Gallery Validation](#gallery-validation)
+      - [Contact us Validation](#contact-us-validation)
+      - [Thank you Validation](#thank-you-validation)
+      - [Error 404 Validation](#error-404-validation)
+    - [CSS Validation](#css-validation)
+    - [Solved Bugs](#solved-bugs)
     - [Known bugs](#known-bugs)
-  - [Lighthouse testing](#lighthouse-testing)
-    - [Home page testing](#index-validation)
-    - [History page testing](#history-validation)
-    - [Gallery page testing](#gallery-validation)
-    - [Contact us Page testing](#contact-us-validation)
-    - [Error 404 page testing](#error-404-validation)
-  - [Wave report](#wave-report)
-  - [Manual testing](#manual-testing)
+    - [Lighthouse testing](#lighthouse-testing)
+      - [Mobile After optimisation](#mobile-after-optimisation)
+      - [Index](#index)
+      - [History](#history)
+      - [Gallery](#gallery)
+      - [Contact us](#contact-us)
+      - [Thank you](#thank-you)
+      - [Error 404](#error-404)
+      - [Desktop After Optimisation](#desktop-after-optimisation)
+      - [Home](#home)
+      - [History](#history-1)
+      - [Gallery](#gallery-1)
+      - [Contact-Page](#contact-page)
+      - [Thank you page](#thank-you-page)
+      - [Error 404 page](#error-404-page)
+    - [Wave report](#wave-report)
+      - [Index](#index-1)
+      - [History](#history-2)
+      - [Gallery](#gallery-2)
+      - [Contact us](#contact-us-1)
+      - [Thank you](#thank-you-1)
+      - [Error 404](#error-404-1)
+    - [Manual Testing](#manual-testing)
+      - [Aims](#aims)
+      - [Testing steps](#testing-steps)
     - [Testing Results](#testing-results)
-    - [Element Testing](#elements-testing)
+    - [Elements Testing](#elements-testing)
 
-## Testing
+## Testing Content
 
 ### HTML Validation
 
