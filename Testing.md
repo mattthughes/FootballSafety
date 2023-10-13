@@ -2,7 +2,6 @@
 
 ![Responsiveness logo](docs/wireframes/Responsiveness-footballsafety.png)
 
-
 ## CONTENTS
 
 - Testing
@@ -17,13 +16,12 @@
     - Gallery page testing
     - Contact us Page testing
     - Error 404 page testing
-  - Wave report 
+  - Wave report
   - Manual testing
     - Testing Results
     - Element Testing
 
 ## Testing
-
 
 ### HTML Validation
 
@@ -62,7 +60,7 @@
 - Had an issue where the navigation bar wasnt being centered on desktop devices, I changed the padding left value to 6px to fix this issue.
 - Fixed a bug where the about us and football safety section were not stacking appropriately on tablet screen sizes.
 - Fixed a bug where the contact page was not displaying webpage elements correctly, such as footer titles all being in the wrong pace, to fix this I adjusted the html to improve the formating.
-- Fixed a bug where the timeline wasn't stacking correctly, I  adjusted the height of the timeline dimensions to fit the issue.
+- Fixed a bug where the timeline wasn't stacking correctly, I adjusted the height of the timeline dimensions to fit the issue.
 - Another Issue occured where the timeline content was not showing correctly, I deleted the height property in the timeline class to fix the issue and increased the padding top value to seperate the containers correctly.
 - Fixed formatting issue for timeline, I ran into an issue where the timeline wasnt adjusting because of the screen size, to fix this I changed the formatting for the mobile device using flex box to make it easier to style the timeline for larger screen sizes.
 - Fixed formatting for timeline on laptops and larger devices, to fix this I changed the properties of the timeline container, for the circles and for the vertical timeline bar.
@@ -316,4 +314,3 @@
 |      Social Media icons      |                    Icon to open in new tab                     |     Clicked icons     |               Opened in new tab               |     Pass      |
 | Social Media (Hover effect)  |       White circular border to appear when hovered over        |   Hovered over icon   |           Hover and styles appeared           |     Pass      |
 |  Back button(Hover effect)   |                 button to change color to red                  |  Button hovered over  | button style changed to red when hovered over |     Pass      |
-
