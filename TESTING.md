@@ -3,7 +3,7 @@
 ![Responsiveness logo](docs/wireframes/responsiveness-footballsafety.png)
 
 ## CONTENTS
- 
+
 - [Football Safety Testing](#football-safety-testing)
   - [CONTENTS](#contents)
   - [Testing Content](#testing-content)
