@@ -6,46 +6,46 @@
 
 - Testing
 
-  - W3C HTML validator
-  - W3C CSS validator
-  - Solved bugs and fixes
-    - Known bugs
-  - Lighthouse testing
-    - Home page testing
-    - History page testing
-    - Gallery page testing
-    - Contact us Page testing
-    - Error 404 page testing
-  - Wave report
-  - Manual testing
-    - Testing Results
-    - Element Testing
+  - [W3C HTML validator](#html-validation)
+  - [W3C CSS validator](#css-validationcss)
+  - [Solved bugs and fixes](#solved-bugs)
+    - [Known bugs](#known-bugs)
+  - [Lighthouse testing](#lighthouse-testing)
+    - [Home page testing](#index-validation)
+    - [History page testing](#history-validation)
+    - [Gallery page testing](#gallery-validation)
+    - [Contact us Page testing](#contact-us-validation)
+    - [Error 404 page testing](#error-404-validation)
+  - [Wave report](#wave-report)
+  - [Manual testing](#manual-testing)
+    - [Testing Results](#testing-results)
+    - [Element Testing](#elements-testing)
 
 ## Testing
 
 ### HTML Validation
 
-#### Index
+#### Index Validation
 
 ![Index Validation](docs/wireframes/index-validator.png)
 
-#### History
+#### History Validation
 
 ![History Validation](docs/wireframes/history-validator.png)
 
-#### Gallery
+#### Gallery Validation
 
 ![Gallery Validation](docs/wireframes/gallery-validator.png)
 
-#### Contact us
+#### Contact us Validation
 
 ![Contact us Validation](docs/wireframes/contact-validator.png)
 
-#### Thank you
+#### Thank you Validation
 
 ![Thank you Validation](docs/wireframes/thank-you-validator.png)
 
-#### Error 404
+#### Error 404 Validation
 
 ![Error 404 Validation](docs/wireframes/error-404-validator.png)
 

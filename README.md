@@ -10,35 +10,34 @@ The inspiration behind this project came from researching about football disaste
 
 ## CONTENTS
 
-- User Stories
+- [User Stories](#user-stories)
+  - [Client aims](#client-goals)
+  - [Returning visitor aims](#frequent-visitor-goals)
 
-  - Client aims
-  - Returning visitor aims
+- [Design](#design)
 
-- Design
+  - [Color Scheme](#design)
+  - [Typography](#typography)
+  - [Wireframes](#wirefames)
+  - [Key features](#key-features)
+  - [Accessibilty decisions](#accesibility)
+  
+- [Technologies used](#technology)
+  - [Languages used](#languages)
+  - [Frameworks & Tools](#frameworks--tools)
 
-  - Color Scheme
-  - Typography
-  - Wireframes
-  - Key features
-  - Imagery
-  - Accessibilty decisions
+- [Depoloyment](#deployment)
+  - [Local Deployment](#local-development)
 
-- Technologies used
+- [Testing](#testing)
 
-  - Languages used
-  - Frameworks & Tools
-
-- Depoloyment
-
-  - Local Deployment
-
-- Credits
-  - Images used
-    - Media
-  - Code used
-  - Content
-  - Acknowledgments
+- [Credits](#credits)
+  - [Media](#media)
+    - [Images used](#imagery)
+    - [Videos used](#video)
+  - [Code used](#code)
+  - [Content](#content)
+  - [Acknowledgments](#acknowledgements)
 
 [Click this link to load deployed site](https://mattthughes.github.io/FootballSafety/)
 
@@ -318,7 +317,7 @@ To deploy the site using GitHub Pages follow the following steps:
 5. Type 'git clone' into the terminal and paste the copied link and press enter.
 
 
-## Testing
+## Testing 
 
 - I tested this project extensively and documented testing of all elements making sure each button, link and form worked, I also documented all bugs solved and unsolved to view this content visit [TESTING.md](https://github.com/mattthughes/FootballSafety/blob/main/TESTING.md)
 
@@ -370,5 +369,5 @@ To deploy the site using GitHub Pages follow the following steps:
 
 ## Acknowledgements
 
-- I would like to firstly thank my mentor Graham who has provided feedback and guidance being very supportive during development
-- I would also like to Thank the code institute slack community especially the peer code review channel for all the people that took there time to review my project and provide me with some feedback this helped alot during development.
+- I would like to firstly thank my mentor Graham who has provided feedback and guidance, he was being very supportive during development
+- I would also like to Thank the code institute slack community, especially the peer code review channel, for all the people that took there time to review my project and provide me with some feedback this helped alot during development.
