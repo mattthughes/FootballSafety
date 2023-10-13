@@ -24,6 +24,39 @@
 
 ## Testing
 
+
+### HTML Validation
+
+#### Index
+
+![Index Validation](docs/wireframes/index-validator.png)
+
+#### History
+
+![History Validation](docs/wireframes/history-validator.png)
+
+#### Gallery
+
+![Gallery Validation](docs/wireframes/gallery-validator.png)
+
+#### Contact us
+
+![Contact us Validation](docs/wireframes/contact-validator.png)
+
+#### Thank you
+
+![Thank you Validation](docs/wireframes/thank-you-validator.png)
+
+#### Error 404
+
+![Error 404 Validation](docs/wireframes/error-404-validator.png)
+
+### CSS Validation
+
+- I have completed all the nessary checks making sure all the css code written has no errors and follows best practices.
+
+![Css Validation](docs/wireframes/css-validator.png)
+
 ### Solved Bugs
 
 - Had an issue where the navigation bar wasnt being centered on desktop devices I changed the padding left value to 6px to fix this issue.
@@ -58,38 +91,6 @@
 ### Known bugs
 
 - Timeline circles appear to move on the timeline slightly where some can appear slightly out of place on the timeline after changing many values a fix has not yet been found.
-
-### HTML Validation
-
-#### Index
-
-![Index Validation](docs/wireframes/index-validator.png)
-
-#### History
-
-![History Validation](docs/wireframes/history-validator.png)
-
-#### Gallery
-
-![Gallery Validation](docs/wireframes/gallery-validator.png)
-
-#### Contact us
-
-![Contact us Validation](docs/wireframes/contact-validator.png)
-
-#### Thank you
-
-![Thank you Validation](docs/wireframes/thank-you-validator.png)
-
-#### Error 404
-
-![Error 404 Validation](docs/wireframes/error-404-validator.png)
-
-### CSS Validation
-
-- I have completed all the nessary checks making sure all the css code written has no errors and follows best practices.
-
-![Css Validation](docs/wireframes/css-validator.png)
 
 ### Lighthouse testing
 
@@ -194,6 +195,7 @@
 - I will be making sure the video doesn't autoplay and is muted to start with to follow best practices.
 - I will make sure github will be finding the error page I created for the website compared to the usual github error page that is usually displayed.
 - Doing the above steps will make sure each element is responive and is working as intended.
+- All elements will be tested using Internet explorer, Google Chrome and Firefox
 
 ### Testing Results
 
