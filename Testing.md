@@ -1,6 +1,6 @@
 # Football Safety Testing
 
-![Responsiveness logo](docs/wireframes/Responsiveness-footballsafety.png)
+![Responsiveness logo](docs/wireframes/responsiveness-footballsafety.png)
 
 ## CONTENTS
 
@@ -51,7 +51,7 @@
 
 ### CSS Validation
 
-- I have completed all the nessary checks making sure all the css code written has no errors and follows best practices.
+- I have completed all the necessary checks making sure all the css code written has no errors and follows best practices.
 
 ![Css Validation](docs/wireframes/css-validator.png)
 
@@ -197,23 +197,23 @@
 
 ### Testing Results
 
-|   **Responsiveness**   | **Index** | **About** | **Gallery** | **Contact us** |
-| :--------------------: | :-------: | :-------: | :---------: | :------------: |
-|        Nav bar         |   Pass    |   Pass    |    Pass     |      Pass      |
-|    Background image    |   Pass    |    N/A    |     N/A     |      N/A       |
-|       Cover text       |   Pass    |    N/A    |     N/A     |      N/A       |
-|        About us        |   Pass    |    N/A    |     N/A     |      N/A       |
-| History nearly section |   Pass    |    N/A    |     N/A     |      N/A       |
-|  History nearly video  |   Pass    |    N/A    |     N/A     |      N/A       |
-|  History nearly link   |   Pass    |    N/A    |     N/A     |      N/A       |
-|      History text      |    N/A    |   Pass    |     N/A     |      N/A       |
-|    History timeline    |    N/A    |   Pass    |     N/A     |      N/A       |
-|     Future updates     |    N/A    |   Pass    |     N/A     |      N/A       |
-|      Contact form      |    N/A    |    N/A    |     N/A     |      Pass      |
-|        Gallery         |    N/A    |    N/A    |    Pass     |      N/A       |
-|  Contact form button   |    N/A    |    N/A    |     N/A     |      Pass      |
-|         Footer         |   Pass    |   Pass    |    Pass     |      Pass      |
-|   Social media icons   |   Pass    |   Pass    |    Pass     |      Pass      |
+|   **Responsiveness**   | **Index** | **About** | **Gallery** | **Contact us** | **Thank you** | **Error 404** |
+| :--------------------: | :-------: | :-------: | :---------: | :------------: | :-----------: | :-----------: |
+|        Nav bar         |   Pass    |   Pass    |    Pass     |      Pass      |     Pass      |     Pass      |
+|    Background image    |   Pass    |    N/A    |     N/A     |      N/A       |      N/A      |      N/A      |
+|       Cover text       |   Pass    |    N/A    |     N/A     |      N/A       |      N/A      |      N/A      |
+|        About us        |   Pass    |    N/A    |     N/A     |      N/A       |      N/A      |      N/A      |
+| History nearly section |   Pass    |    N/A    |     N/A     |      N/A       |      N/A      |      N/A      |
+|  History nearly video  |   Pass    |    N/A    |     N/A     |      N/A       |      N/A      |      N/A      |
+|  History nearly link   |   Pass    |    N/A    |     N/A     |      N/A       |      N/A      |      N/A      |
+|      History text      |    N/A    |   Pass    |     N/A     |      N/A       |      N/A      |      N/A      |
+|    History timeline    |    N/A    |   Pass    |     N/A     |      N/A       |      N/A      |      N/A      |
+|     Future updates     |    N/A    |   Pass    |     N/A     |      N/A       |      N/A      |      N/A      |
+|      Contact form      |    N/A    |    N/A    |     N/A     |      Pass      |      N/A      |      N/A      |
+|        Gallery         |    N/A    |    N/A    |    Pass     |      N/A       |      N/A      |      N/A      |
+|  Contact form button   |    N/A    |    N/A    |     N/A     |      Pass      |      N/A      |      N/A      |
+|         Footer         |   Pass    |   Pass    |    Pass     |      Pass      |     Pass      |     Pass      |
+|   Social media icons   |   Pass    |   Pass    |    Pass     |      Pass      |     Pass      |     Pass      |
 
 ### Elements Testing
 
