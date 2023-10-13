@@ -355,12 +355,16 @@ To deploy the site using GitHub Pages follow the following steps:
 
 #### Code
 
-- The social icons were heavily inspired by the Love Running walkthrough project and was customised to my projects needs.
-- The contact section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs.
+- The social icons were heavily inspired by the Love Running walkthrough project and was customised to my projects needs. [Love running Social icons][https://github.com/mattthughes/Love-Run]
+- The contact section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs.[Love running Contact section][https://github.com/mattthughes/Love-Run]
 
 * The Timeline for tablets was inspired by WSschools, where to fix errors I referenced the timeline they created to ensure a responsive design for all screen sizes. [Timeline example reference](https://www.w3schools.com/howto/howto_css_timeline.asp)
 
-- The Gallery section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs
+- The Gallery section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs[Love running Gallery](https://github.com/mattthughes/Love-Run)
+
+- Main element css styles are credited to the Love running walkthrough project[Love running CSS Main styles](https://github.com/mattthughes/Love-Run)
+
+
 
 #### Content
 

@@ -2,10 +2,10 @@
 
 ![Responsiveness logo](docs/wireframes/responsiveness-footballsafety.png)
 
-## Contents
+## CONTENTS
  
 - [Football Safety Testing](#football-safety-testing)
-  - [Contents](#contents)
+  - [CONTENTS](#contents)
   - [Testing Content](#testing-content)
     - [HTML Validation](#html-validation)
       - [Index Validation](#index-validation)
