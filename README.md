@@ -11,42 +11,22 @@ The inspiration behind this project came from researching about football disaste
 ## CONTENTS
 
 - User Stories
-
   - Client aims
   - Returning visitor aims
 
 - Design
-
   - Color Scheme
   - Wireframes
   - Key features
   - Imagery
   - Accessibilty decisions
 
-  - Technologies used
+- Technologies used
+  - Languages used
+  - Frameworks & Tools
 
-    - Languages used
-    - Frameworks & Tools
-
-  - Depoloyment
-    - Local Deployment
-
-- Testing
-
-  - W3C HTML validator
-  - W3C CSS validator
-  - Solved bugs and fixes
-    - Known bugs
-  - User stories testing
-  - Lighthouse testing
-    - Home page testing
-    - History page testing
-    - Gallery page testing
-    - Contact us Page testing
-    - Error 404 page testing
-  - Manual testing
-    - Testing Results
-    - Element Testing
+- Depoloyment
+  - Local Deployment
 
 - Credits
   - Images used
@@ -55,7 +35,7 @@ The inspiration behind this project came from researching about football disaste
   - Content
   - Acknowledgments
 
-[Live Site URL:https://mattthughes.github.io/FootballSafety/)](https://mattthughes.github.io/FootballSafety/)
+[Click this link to load deployed site](https://mattthughes.github.io/FootballSafety/)
 
 ## User Stories
 
@@ -317,20 +297,31 @@ To deploy the site using GitHub Pages follow the following steps:
 
 #### Imagery
 
-- Image of the fallen 97 [Fallen 97](https://www.bbc.co.uk/news/uk-england-merseyside-47697569)
-- Pitch Memorial Image [Pitch Memorial](https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-remember-96-27-years-11188597)
-- Fans and Footballers on the pitch [Fans and footballers on the pitch](https://www.huffingtonpost.co.uk/2014/04/14/hillsborough-disaster-motd-report_n_5145544.html)
-- Background image Hillsborough tribute [Hillsborough tribute](https://www.theguardian.com/football/2023/apr/15/fight-to-end-hillsborough-abuse-tragedy-chanting-liverpool)
-- People trying to escape the disaster image [People trying to escape the disaster](https://www.independent.co.uk/news/uk/home-news/hillsborough-police-paid-money-found-among-the-dead-into-force-s-coffers-8793702.html)
-- People standing on the pitch some trying to help others while some don't know how to react image[Fans on the pitch trying to help others](https://www.huffingtonpost.co.uk/2014/04/14/hillsborough-disaster-motd-report_n_5145544.html)
-- Fans not knowing how to react helping others image [Fans helping carry a stretcher](https://www.dailymail.co.uk/news/article-7736991/Sports-writer-JEFF-POWELL-Hillsborough-recalls-horror-days-unfolding-events.html)
-- Bradford city stadium fire image [Bradford city stadium fire](https://www.theguardian.com/football/2015/apr/15/bradford-fire-stafford-heginbotham-martin-fletcher)
-- Champions league final crowd trouble image [Champions league final crowd trouble](https://www.skysports.com/football/news/12040/12624042/champions-league-final-chaos-ticketless-liverpool-fans-blamed-by-french-sports-minister-for-initial-crowd-issues)
-- Police during the crowd trouble image [Police during the crowd trouble](https://www.skysports.com/football/news/12040/12624042/champions-league-final-chaos-ticketless-liverpool-fans-blamed-by-french-sports-minister-for-initial-crowd-issues)
+- Image of the fallen 97 
+[Image here](https://www.bbc.co.uk/news/uk-england-merseyside-47697569)
+- Pitch Memorial Image 
+[Image here](https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-remember-96-27-years-11188597)
+- Fans and Footballers on the pitch 
+[Image here](https://www.huffingtonpost.co.uk/2014/04/14/hillsborough-disaster-motd-report_n_5145544.html)
+- Background image Hillsborough tribute 
+[Image here](https://www.theguardian.com/football/2023/apr/15/fight-to-end-hillsborough-abuse-tragedy-chanting-liverpool)
+- People trying to escape the disaster image 
+[Image here](https://www.independent.co.uk/news/uk/home-news/hillsborough-police-paid-money-found-among-the-dead-into-force-s-coffers-8793702.html)
+- People standing on the pitch some trying to help others while some don't know how to react image 
+[Image here](https://www.huffingtonpost.co.uk/2014/04/14/hillsborough-disaster-motd-report_n_5145544.html)
+- Fans not knowing how to react helping others image 
+[Image here](https://www.dailymail.co.uk/news/article-7736991/Sports-writer-JEFF-POWELL-Hillsborough-recalls-horror-days-unfolding-events.html)
+- Bradford city stadium fire image 
+[Image here](https://www.theguardian.com/football/2015/apr/15/bradford-fire-stafford-heginbotham-martin-fletcher)
+- Champions league final crowd trouble image 
+[Image here](https://www.skysports.com/football/news/12040/12624042/champions-league-final-chaos-ticketless-liverpool-fans-blamed-by-french-sports-minister-for-initial-crowd-issues)
+- Police during the crowd trouble image 
+[Image here ](https://www.skysports.com/football/news/12040/12624042/champions-league-final-chaos-ticketless-liverpool-fans-blamed-by-french-sports-minister-for-initial-crowd-issues)
 
 #### Video
 
-- Video of the aftermath of the champions league final crowd trouble[Champions league crowd trouble video](https://www.youtube.com/watch?v=QD0UB0xCcB8&list=PPSV)
+- Video of the aftermath of the champions league final crowd trouble
+[Video here](https://www.youtube.com/watch?v=QD0UB0xCcB8&list=PPSV)
 
 #### Code
 

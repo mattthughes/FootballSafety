@@ -11,13 +11,13 @@
   - W3C CSS validator
   - Solved bugs and fixes
     - Known bugs
-  - Responsive testing
   - Lighthouse testing
     - Home page testing
     - History page testing
     - Gallery page testing
     - Contact us Page testing
     - Error 404 page testing
+  - Wave report 
   - Manual testing
     - Testing Results
     - Element Testing
