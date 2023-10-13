@@ -317,6 +317,11 @@ To deploy the site using GitHub Pages follow the following steps:
 4. Next Open the terminal in the code editor and change the current working directory to the locaton you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and paste the copied link and press enter.
 
+
+## Testing
+
+- I tested this project extensively and documented testing of all elements making sure each button, link and form worked, I also documented all bugs solved and unsolved to view this content visit [TESTING.md](https://github.com/mattthughes/FootballSafety/blob/main/TESTING.md)
+
 ## Credits
 
 ### Media
