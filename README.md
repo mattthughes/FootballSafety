@@ -236,7 +236,7 @@ This is how the project will look on a desktop device, as shown on the mobile ve
 
 ![Thank you desktop](docs/wireframes/thank-you-desktop-page.png)
 
-### error 404 page
+### Error 404 page
 
 - This page will be used instead of the usual github page, this will keep the same design of the websites other pages this will also include the navigation bar and social media icons, this page will simply state this page doesn't exist, there will also be an option to go back to the home page just like the thank you page.
 
