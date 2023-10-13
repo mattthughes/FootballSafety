@@ -71,11 +71,11 @@ The inspiration behind this project came from researching about football disaste
   - [Testing](#testing)
   - [Credits](#credits)
     - [Media](#media)
-      - [Imagery](#imagery)
-      - [Video](#video)
-      - [Code](#code)
-      - [Content](#content)
-  - [Acknowledgements](#acknowledgements)
+    - [Imagery](#imagery)
+    - [Video](#video)
+    - [Code](#code)
+    - [Content](#content)
+    - [Acknowledgements](#acknowledgements)
 
 [Click this link to load deployed site](https://mattthughes.github.io/FootballSafety/)
 
@@ -355,8 +355,7 @@ To deploy the site using GitHub Pages follow the following steps:
 4. Next Open the terminal in the code editor and change the current working directory to the locaton you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and paste the copied link and press enter.
 
-
-## Testing 
+## Testing
 
 - I tested this project extensively and documented testing of all elements making sure each button, link and form worked, I also documented all bugs solved and unsolved to view this content visit [TESTING.md](https://github.com/mattthughes/FootballSafety/blob/main/TESTING.md)
 
@@ -364,7 +363,7 @@ To deploy the site using GitHub Pages follow the following steps:
 
 ### Media
 
-#### Imagery
+### Imagery
 
 - Fallen 97
   [Image here](https://www.bbc.co.uk/news/uk-england-merseyside-47697569)
@@ -387,30 +386,28 @@ To deploy the site using GitHub Pages follow the following steps:
 - Police during the crowd trouble
   [Image here ](https://www.skysports.com/football/news/12040/12624042/champions-league-final-chaos-ticketless-liverpool-fans-blamed-by-french-sports-minister-for-initial-crowd-issues)
 
-#### Video
+### Video
 
 - Aftermath of the champions league final crowd trouble
   [Video here](https://www.youtube.com/watch?v=QD0UB0xCcB8&list=PPSV)
 
-#### Code
+### Code
 
-- The social icons were heavily inspired by the Love Running walkthrough project and was customised to my projects needs. [Love running Social icons][https://github.com/mattthughes/Love-Run]
-- The contact section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs.[Love running Contact section][https://github.com/mattthughes/Love-Run]
+- The social icons were heavily inspired by the Love Running walkthrough project and was customised to my projects needs. [Love running Social icons](https://github.com/mattthughes/Love-Ru)
+- The contact section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects [Love running Contact section](https://github.com/mattthughes/Love-Run)
 
 * The Timeline for tablets was inspired by WSschools, where to fix errors I referenced the timeline they created to ensure a responsive design for all screen sizes. [Timeline example reference](https://www.w3schools.com/howto/howto_css_timeline.asp)
 
-- The Gallery section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs[Love running Gallery](https://github.com/mattthughes/Love-Run)
+- The Gallery section basics were heavily inspired by the Love Running walkthrough project and was customised to my projects needs.  [Love running Gallery](https://github.com/mattthughes/Love-Run)
 
-- Main element css styles are credited to the Love running walkthrough project[Love running CSS Main styles](https://github.com/mattthughes/Love-Run)
+- Main element css styles are credited to the Love running walkthrough project. [Love running CSS Main styles](https://github.com/mattthughes/Love-Run)
 
-
-
-#### Content
+### Content
 
 - The Hillsborough timeline for the timeline page was taken from bbc sport showcasing how the events unfolded. [Hillsborough timeline](https://www.bbc.co.uk/news/uk-england-merseyside-47697569)
-- All other content was written by Matthew Hughes
+- All other content was written by Matthew Hughes.
 
-## Acknowledgements
+### Acknowledgements
 
-- I would like to firstly thank my mentor Graham who has provided feedback and guidance, he was being very supportive during development
+- I would like to firstly thank my mentor Graham who has provided feedback and guidance, he was being very supportive during development.
 - I would also like to Thank the code institute slack community, especially the peer code review channel, for all the people that took there time to review my project and provide me with some feedback this helped alot during development.
